@@ -48,12 +48,12 @@
       "customerAddress": "Prime valley",
       "advancePaid": 50000,
       "paymentMethod": "cash",
-      "status": "pending",
+      "status": "completed",
       "notes": "Mirza gee interior",
       "saleDate": "2025-12-13T07:46:49.405Z"
     }
   ],
   "currentProductId": 5,
   "currentSaleId": 4,
-  "lastUpdated": "2025-12-13T07:46:50.724Z"
+  "lastUpdated": "2025-12-13T09:09:05.759Z"
 }
