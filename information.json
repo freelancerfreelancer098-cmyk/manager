@@ -1,24 +1,7 @@
 {
   "products": [],
-  "sales": [
-    {
-      "id": 1,
-      "productId": 1,
-      "productName": "test",
-      "pricePerUnit": 10000,
-      "quantity": 1,
-      "designName": "2",
-      "customerName": "2",
-      "customerPhone": "2",
-      "customerAddress": "1",
-      "advancePaid": 10000,
-      "paymentMethod": "cash",
-      "status": "pending",
-      "notes": "Hi",
-      "saleDate": "2025-12-13T05:41:01.675Z"
-    }
-  ],
+  "sales": [],
   "currentProductId": 3,
   "currentSaleId": 2,
-  "lastUpdated": "2025-12-13T06:54:40.904Z"
+  "lastUpdated": "2025-12-13T06:55:00.215Z"
 }
