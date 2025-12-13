@@ -13,7 +13,7 @@
       "id": 3,
       "name": "Palling",
       "price": 5000,
-      "stock": 12,
+      "stock": 7,
       "designs": 10,
       "description": "",
       "dateAdded": "2025-12-13T06:23:39.028Z"
@@ -35,9 +35,25 @@
       "status": "completed",
       "notes": "Hi",
       "saleDate": "2025-12-13T05:41:01.675Z"
+    },
+    {
+      "id": 2,
+      "productId": 3,
+      "productName": "Palling",
+      "pricePerUnit": 5000,
+      "quantity": 5,
+      "designName": "Blue star",
+      "customerName": "Saad Mirza",
+      "customerPhone": "03086009321",
+      "customerAddress": "Prime valley house no 90",
+      "advancePaid": 0,
+      "paymentMethod": "cash",
+      "status": "pending",
+      "notes": "",
+      "saleDate": "2025-12-13T06:25:56.077Z"
     }
   ],
   "currentProductId": 4,
-  "currentSaleId": 2,
-  "lastUpdated": "2025-12-13T06:23:40.127Z"
+  "currentSaleId": 3,
+  "lastUpdated": "2025-12-13T06:25:57.264Z"
 }
