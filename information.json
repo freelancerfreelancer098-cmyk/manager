@@ -1,15 +1,6 @@
 {
   "products": [
     {
-      "id": 3,
-      "name": "test",
-      "price": 1,
-      "stock": 110,
-      "designs": 1,
-      "description": "1",
-      "dateAdded": "2025-12-13T07:04:44.519Z"
-    },
-    {
       "id": 4,
       "name": "Wallpaper",
       "price": 10000,
@@ -55,5 +46,5 @@
   ],
   "currentProductId": 5,
   "currentSaleId": 4,
-  "lastUpdated": "2025-12-13T09:09:05.759Z"
+  "lastUpdated": "2025-12-13T13:14:09.319Z"
 }
