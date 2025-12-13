@@ -1,7 +1,17 @@
 {
-  "products": [],
+  "products": [
+    {
+      "id": 3,
+      "name": "test",
+      "price": 1,
+      "stock": 111,
+      "designs": 1,
+      "description": "1",
+      "dateAdded": "2025-12-13T07:04:44.519Z"
+    }
+  ],
   "sales": [],
-  "currentProductId": 3,
+  "currentProductId": 4,
   "currentSaleId": 2,
-  "lastUpdated": "2025-12-13T06:55:00.215Z"
+  "lastUpdated": "2025-12-13T07:04:44.534Z"
 }
