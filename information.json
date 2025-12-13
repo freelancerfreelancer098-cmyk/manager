@@ -8,6 +8,15 @@
       "designs": 1,
       "description": "1",
       "dateAdded": "2025-12-13T07:04:44.519Z"
+    },
+    {
+      "id": 4,
+      "name": "Wallpaper",
+      "price": 10000,
+      "stock": 100,
+      "designs": 1,
+      "description": "Mirza gee",
+      "dateAdded": "2025-12-13T07:30:55.995Z"
     }
   ],
   "sales": [
@@ -28,7 +37,7 @@
       "saleDate": "2025-12-13T07:05:10.147Z"
     }
   ],
-  "currentProductId": 4,
+  "currentProductId": 5,
   "currentSaleId": 3,
-  "lastUpdated": "2025-12-13T07:05:10.493Z"
+  "lastUpdated": "2025-12-13T07:30:57.277Z"
 }
