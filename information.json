@@ -4,14 +4,31 @@
       "id": 3,
       "name": "test",
       "price": 1,
-      "stock": 111,
+      "stock": 110,
       "designs": 1,
       "description": "1",
       "dateAdded": "2025-12-13T07:04:44.519Z"
     }
   ],
-  "sales": [],
+  "sales": [
+    {
+      "id": 2,
+      "productId": 3,
+      "productName": "test",
+      "pricePerUnit": 1,
+      "quantity": 1,
+      "designName": "1",
+      "customerName": "1",
+      "customerPhone": "1",
+      "customerAddress": "1",
+      "advancePaid": 1,
+      "paymentMethod": "cash",
+      "status": "pending",
+      "notes": "1",
+      "saleDate": "2025-12-13T07:05:10.147Z"
+    }
+  ],
   "currentProductId": 4,
-  "currentSaleId": 2,
-  "lastUpdated": "2025-12-13T07:04:44.534Z"
+  "currentSaleId": 3,
+  "lastUpdated": "2025-12-13T07:05:10.493Z"
 }
