@@ -8,6 +8,17 @@
       "designs": 1,
       "description": "Mirza gee",
       "dateAdded": "2025-12-13T07:30:55.995Z"
+    },
+    {
+      "id": 5,
+      "name": "Palling",
+      "company": "Shaheen",
+      "price": 380,
+      "stock": 100,
+      "designs": 10,
+      "category": "decor",
+      "description": "Mirza gee interior limited",
+      "dateAdded": "2025-12-14T01:01:32.961Z"
     }
   ],
   "sales": [
@@ -44,7 +55,7 @@
       "saleDate": "2025-12-13T07:46:49.405Z"
     }
   ],
-  "currentProductId": 5,
+  "currentProductId": 6,
   "currentSaleId": 4,
-  "lastUpdated": "2025-12-13T13:14:09.319Z"
+  "lastUpdated": "2025-12-14T01:01:34.164Z"
 }
