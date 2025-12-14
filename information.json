@@ -1,24 +1,7 @@
 {
   "products": [],
-  "sales": [
-    {
-      "id": 4,
-      "productId": 5,
-      "productName": "Palling",
-      "pricePerUnit": 380,
-      "quantity": 10,
-      "designName": "White",
-      "customerName": "Ali",
-      "customerPhone": "03256982147",
-      "customerAddress": "Lari add road",
-      "advancePaid": 1400,
-      "paymentMethod": "online",
-      "status": "completed",
-      "notes": "Mirza gee products",
-      "saleDate": "2025-12-14T01:03:51.375Z"
-    }
-  ],
+  "sales": [],
   "currentProductId": 6,
   "currentSaleId": 5,
-  "lastUpdated": "2025-12-14T01:09:15.279Z"
+  "lastUpdated": "2025-12-14T01:09:21.809Z"
 }
