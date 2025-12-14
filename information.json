@@ -2,22 +2,6 @@
   "products": [],
   "sales": [
     {
-      "id": 3,
-      "productId": 4,
-      "productName": "Wallpaper",
-      "pricePerUnit": 10000,
-      "quantity": 10,
-      "designName": "White",
-      "customerName": "Saad Mirza",
-      "customerPhone": "03086009321",
-      "customerAddress": "Prime valley",
-      "advancePaid": 50000,
-      "paymentMethod": "cash",
-      "status": "completed",
-      "notes": "Mirza gee interior",
-      "saleDate": "2025-12-13T07:46:49.405Z"
-    },
-    {
       "id": 4,
       "productId": 5,
       "productName": "Palling",
@@ -36,5 +20,5 @@
   ],
   "currentProductId": 6,
   "currentSaleId": 5,
-  "lastUpdated": "2025-12-14T01:09:09.829Z"
+  "lastUpdated": "2025-12-14T01:09:15.279Z"
 }
