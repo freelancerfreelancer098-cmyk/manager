@@ -5,15 +5,32 @@
       "name": "Wallpaper",
       "company": "Shaheen",
       "price": 10000,
-      "stock": 1000,
+      "stock": 999,
       "designs": 5,
       "category": "decor",
       "description": "Mirza gee Wallpaper Products",
       "dateAdded": "2025-12-14T02:02:25.554Z"
     }
   ],
-  "sales": [],
+  "sales": [
+    {
+      "id": 5,
+      "productId": 6,
+      "productName": "Wallpaper",
+      "pricePerUnit": 10000,
+      "quantity": 1,
+      "designName": "White",
+      "customerName": "Ali",
+      "customerPhone": "03086009325",
+      "customerAddress": "Prime valley",
+      "advancePaid": 5000,
+      "paymentMethod": "bank",
+      "status": "pending",
+      "notes": "Mirza gee interior",
+      "saleDate": "2025-12-14T02:05:01.495Z"
+    }
+  ],
   "currentProductId": 7,
-  "currentSaleId": 5,
-  "lastUpdated": "2025-12-14T02:02:25.602Z"
+  "currentSaleId": 6,
+  "lastUpdated": "2025-12-14T02:05:02.841Z"
 }
