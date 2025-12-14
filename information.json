@@ -27,10 +27,15 @@
       "paymentMethod": "bank",
       "status": "pending",
       "notes": "Mirza gee interior",
-      "saleDate": "2025-12-14T02:05:01.495Z"
+      "saleDate": "2025-12-14T02:05:01.495Z",
+      "paymentStatus": "pending"
     }
   ],
+  "expenses": [],
   "currentProductId": 7,
   "currentSaleId": 6,
-  "lastUpdated": "2025-12-14T04:14:43.568Z"
+  "currentExpenseId": 1,
+  "initialBalance": 0,
+  "adjustments": [],
+  "lastUpdated": "2025-12-14T06:37:04.306Z"
 }
