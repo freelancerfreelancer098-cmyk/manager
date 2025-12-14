@@ -66,12 +66,12 @@
       "customerAddress": "Lari add road",
       "advancePaid": 1400,
       "paymentMethod": "online",
-      "status": "pending",
+      "status": "completed",
       "notes": "Mirza gee products",
       "saleDate": "2025-12-14T01:03:51.375Z"
     }
   ],
   "currentProductId": 6,
   "currentSaleId": 5,
-  "lastUpdated": "2025-12-14T01:03:52.480Z"
+  "lastUpdated": "2025-12-14T01:07:03.223Z"
 }
