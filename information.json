@@ -1,15 +1,6 @@
 {
   "products": [
     {
-      "id": 4,
-      "name": "Wallpaper",
-      "price": 10000,
-      "stock": 90,
-      "designs": 1,
-      "description": "Mirza gee",
-      "dateAdded": "2025-12-13T07:30:55.995Z"
-    },
-    {
       "id": 5,
       "name": "Palling",
       "company": "Shaheen",
@@ -73,5 +64,5 @@
   ],
   "currentProductId": 6,
   "currentSaleId": 5,
-  "lastUpdated": "2025-12-14T01:07:03.223Z"
+  "lastUpdated": "2025-12-14T01:08:45.387Z"
 }
