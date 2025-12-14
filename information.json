@@ -14,7 +14,7 @@
       "name": "Palling",
       "company": "Shaheen",
       "price": 380,
-      "stock": 100,
+      "stock": 90,
       "designs": 10,
       "category": "decor",
       "description": "Mirza gee interior limited",
@@ -53,9 +53,25 @@
       "status": "completed",
       "notes": "Mirza gee interior",
       "saleDate": "2025-12-13T07:46:49.405Z"
+    },
+    {
+      "id": 4,
+      "productId": 5,
+      "productName": "Palling",
+      "pricePerUnit": 380,
+      "quantity": 10,
+      "designName": "White",
+      "customerName": "Ali",
+      "customerPhone": "03256982147",
+      "customerAddress": "Lari add road",
+      "advancePaid": 1400,
+      "paymentMethod": "online",
+      "status": "pending",
+      "notes": "Mirza gee products",
+      "saleDate": "2025-12-14T01:03:51.375Z"
     }
   ],
   "currentProductId": 6,
-  "currentSaleId": 4,
-  "lastUpdated": "2025-12-14T01:01:34.164Z"
+  "currentSaleId": 5,
+  "lastUpdated": "2025-12-14T01:03:52.480Z"
 }
