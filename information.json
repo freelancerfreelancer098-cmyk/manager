@@ -6,7 +6,7 @@
       "company": "Shaheen",
       "price": 10000,
       "stock": 999,
-      "designs": 5,
+      "designs": null,
       "category": "decor",
       "description": "Mirza gee Wallpaper Products",
       "dateAdded": "2025-12-14T02:02:25.554Z"
@@ -32,5 +32,5 @@
   ],
   "currentProductId": 7,
   "currentSaleId": 6,
-  "lastUpdated": "2025-12-14T02:05:02.841Z"
+  "lastUpdated": "2025-12-14T04:14:43.568Z"
 }
