@@ -41,7 +41,7 @@
   "currentCeilingId": 1,
   "currentCeilingSaleId": 1,
   "currentExpenseId": 1,
-  "initialBalance": 4,
+  "initialBalance": 0,
   "adjustments": [
     {
       "id": 1,
@@ -49,7 +49,49 @@
       "reason": "correction",
       "notes": "",
       "date": "2025-12-15T14:16:41.385Z"
+    },
+    {
+      "id": 2,
+      "amount": 0,
+      "reason": "correction",
+      "notes": "",
+      "date": "2025-12-15T14:16:54.617Z"
+    },
+    {
+      "id": 3,
+      "amount": 0,
+      "reason": "correction",
+      "notes": "",
+      "date": "2025-12-15T14:16:55.920Z"
+    },
+    {
+      "id": 4,
+      "amount": 1,
+      "reason": "correction",
+      "notes": "",
+      "date": "2025-12-15T14:17:02.720Z"
+    },
+    {
+      "id": 5,
+      "amount": 1,
+      "reason": "correction",
+      "notes": "",
+      "date": "2025-12-15T14:17:03.931Z"
+    },
+    {
+      "id": 6,
+      "amount": 0,
+      "reason": "correction",
+      "notes": "",
+      "date": "2025-12-15T14:17:23.984Z"
+    },
+    {
+      "id": 7,
+      "amount": 0,
+      "reason": "correction",
+      "notes": "",
+      "date": "2025-12-15T14:17:28.647Z"
     }
   ],
-  "lastUpdated": "2025-12-15T14:16:42.135Z"
+  "lastUpdated": "2025-12-15T14:17:30.870Z"
 }
