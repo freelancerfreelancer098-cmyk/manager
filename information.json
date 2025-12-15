@@ -10,6 +10,17 @@
       "category": "decor",
       "description": "Mirza gee Wallpaper Products",
       "dateAdded": "2025-12-14T02:02:25.554Z"
+    },
+    {
+      "id": 7,
+      "name": "Doors",
+      "company": "",
+      "price": 370,
+      "stock": 10,
+      "designs": "Brown Hardware",
+      "category": "office",
+      "description": "Mirza gee products",
+      "dateAdded": "2025-12-15T18:45:24.291Z"
     }
   ],
   "sales": [
@@ -40,7 +51,7 @@
   "ceilings": [],
   "ceilingSales": [],
   "expenses": [],
-  "currentProductId": 7,
+  "currentProductId": 8,
   "currentSaleId": 6,
   "currentWorkerId": 1,
   "currentCeilingId": 1,
@@ -98,5 +109,5 @@
       "date": "2025-12-15T14:17:28.647Z"
     }
   ],
-  "lastUpdated": "2025-12-15T18:43:27.581Z"
+  "lastUpdated": "2025-12-15T18:45:26.056Z"
 }
