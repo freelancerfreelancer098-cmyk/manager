@@ -31,7 +31,25 @@
       "paymentStatus": "completed"
     }
   ],
+  "workers": [],
+  "ceilings": [],
+  "ceilingSales": [],
+  "expenses": [],
   "currentProductId": 7,
   "currentSaleId": 6,
-  "lastUpdated": "2025-07-13T15:07:37.006Z"
+  "currentWorkerId": 1,
+  "currentCeilingId": 1,
+  "currentCeilingSaleId": 1,
+  "currentExpenseId": 1,
+  "initialBalance": 4,
+  "adjustments": [
+    {
+      "id": 1,
+      "amount": 4,
+      "reason": "correction",
+      "notes": "",
+      "date": "2025-12-15T14:16:41.385Z"
+    }
+  ],
+  "lastUpdated": "2025-12-15T14:16:42.135Z"
 }
