@@ -39,7 +39,7 @@
       "status": "completed",
       "notes": "Mirza gee interior",
       "saleDate": "2025-12-14T02:05:01.495Z",
-      "paymentStatus": "completed",
+      "paymentStatus": "pending",
       "bankName": "",
       "accountNumber": "",
       "accountHolder": "",
@@ -109,5 +109,5 @@
       "date": "2025-12-15T14:17:28.647Z"
     }
   ],
-  "lastUpdated": "2025-07-15T11:51:19.545Z"
+  "lastUpdated": "2025-07-15T11:51:40.853Z"
 }
