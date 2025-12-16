@@ -50,13 +50,8 @@
   "workers": [],
   "ceilings": [],
   "ceilingSales": [],
+  "newCustomers": [],
   "expenses": [],
-  "currentProductId": 8,
-  "currentSaleId": 6,
-  "currentWorkerId": 1,
-  "currentCeilingId": 1,
-  "currentCeilingSaleId": 1,
-  "currentExpenseId": 1,
   "initialBalance": 0,
   "adjustments": [
     {
@@ -116,5 +111,6 @@
       "date": "2025-12-16T13:27:21.492Z"
     }
   ],
-  "lastUpdated": "2025-12-16T13:27:28.668Z"
+  "totalReceiptsGenerated": 0,
+  "lastUpdated": "2025-12-16T15:18:39.621Z"
 }
