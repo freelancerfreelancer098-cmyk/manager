@@ -1,17 +1,5 @@
 {
-  "products": [
-    {
-      "id": 1,
-      "name": "test",
-      "company": "1",
-      "price": 1,
-      "stock": 0,
-      "designs": "1",
-      "category": "interiors",
-      "description": "1",
-      "dateAdded": "2025-12-17T04:32:15.678Z"
-    }
-  ],
+  "products": [],
   "sales": [
     {
       "id": 1,
@@ -40,6 +28,7 @@
       "deliveryDate": "2025-12-17"
     }
   ],
+  "customers": [],
   "workers": [],
   "ceilings": [],
   "ceilingSales": [],
@@ -76,5 +65,5 @@
     }
   ],
   "totalReceiptsGenerated": 2,
-  "lastUpdated": "2025-12-17T05:14:42.166Z"
+  "lastUpdated": "2025-12-17T10:07:31.971Z"
 }
