@@ -75,21 +75,7 @@
       "dateAdded": "2025-12-17"
     }
   ],
-  "workers": [
-    {
-      "id": 1,
-      "name": "TEST",
-      "phone": "1",
-      "address": "1",
-      "skills": "1",
-      "experience": 1,
-      "dailyIncome": 1,
-      "footRate": 1,
-      "status": "active",
-      "notes": "1",
-      "dateAdded": "2025-12-17T11:20:40.704Z"
-    }
-  ],
+  "workers": [],
   "ceilings": [],
   "ceilingSales": [],
   "newCustomers": [],
@@ -152,5 +138,5 @@
     }
   ],
   "totalReceiptsGenerated": 3,
-  "lastUpdated": "2025-12-17T13:42:22.665Z"
+  "lastUpdated": "2025-12-17T14:51:15.470Z"
 }
