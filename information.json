@@ -1,5 +1,17 @@
 {
-  "products": [],
+  "products": [
+    {
+      "id": 1,
+      "name": "test",
+      "company": "Test",
+      "price": 100000,
+      "stock": 111,
+      "designs": "Design White",
+      "category": "bedroom",
+      "description": "Hi",
+      "dateAdded": "2025-12-17T03:35:53.215Z"
+    }
+  ],
   "sales": [],
   "workers": [],
   "ceilings": [],
@@ -9,5 +21,5 @@
   "initialBalance": 0,
   "adjustments": [],
   "totalReceiptsGenerated": 0,
-  "lastUpdated": "2025-12-17T03:33:41.162Z"
+  "lastUpdated": "2025-12-17T03:35:53.215Z"
 }
