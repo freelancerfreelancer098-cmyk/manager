@@ -1,5 +1,17 @@
 {
-  "products": [],
+  "products": [
+    {
+      "id": 1,
+      "name": "1",
+      "company": "1",
+      "price": 1,
+      "stock": 1,
+      "designs": "1",
+      "category": "tv",
+      "description": "1",
+      "dateAdded": "2025-12-17T11:55:25.744Z"
+    }
+  ],
   "sales": [
     {
       "id": 1,
@@ -44,6 +56,9 @@
       "dateAdded": "2025-12-17T11:20:40.704Z"
     }
   ],
+  "ceilings": [],
+  "ceilingSales": [],
+  "newCustomers": [],
   "expenses": [
     {
       "id": 1,
@@ -76,5 +91,5 @@
     }
   ],
   "totalReceiptsGenerated": 2,
-  "lastUpdated": "2025-12-17T11:20:40.704Z"
+  "lastUpdated": "2025-12-17T11:55:25.744Z"
 }
