@@ -29,10 +29,21 @@
     }
   ],
   "customers": [],
-  "workers": [],
-  "ceilings": [],
-  "ceilingSales": [],
-  "newCustomers": [],
+  "workers": [
+    {
+      "id": 1,
+      "name": "TEST",
+      "phone": "1",
+      "address": "1",
+      "skills": "1",
+      "experience": 1,
+      "dailyIncome": 1,
+      "footRate": 1,
+      "status": "active",
+      "notes": "1",
+      "dateAdded": "2025-12-17T11:20:40.704Z"
+    }
+  ],
   "expenses": [
     {
       "id": 1,
@@ -65,5 +76,5 @@
     }
   ],
   "totalReceiptsGenerated": 2,
-  "lastUpdated": "2025-12-17T10:07:31.971Z"
+  "lastUpdated": "2025-12-17T11:20:40.704Z"
 }
