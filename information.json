@@ -56,8 +56,8 @@
       "dateAdded": "2025-12-17T11:20:40.704Z"
     }
   ],
-  "ceilings": [],
-  "ceilingSales": [],
+  "ceilingsWork": [],
+  "ceilingsSales": [],
   "newCustomers": [],
   "expenses": [
     {
@@ -90,6 +90,6 @@
       "date": "2025-12-17T04:19:33.203Z"
     }
   ],
-  "totalReceiptsGenerated": 2,
-  "lastUpdated": "2025-12-17T11:55:25.744Z"
+  "totalReceiptsGenerated": 3,
+  "lastUpdated": "2025-12-17T12:54:05.231Z"
 }
