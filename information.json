@@ -112,7 +112,7 @@
       "date": "2025-12-17T03:38:49.091Z"
     }
   ],
-  "initialBalance": 100,
+  "initialBalance": 10000,
   "adjustments": [
     {
       "id": 1765945173203,
@@ -131,8 +131,26 @@
       "reason": "initial",
       "notes": "",
       "date": "2025-12-17T13:42:15.459Z"
+    },
+    {
+      "id": 1765978936313,
+      "previousBalance": 100,
+      "newBalance": 100,
+      "difference": 0,
+      "reason": "initial",
+      "notes": "",
+      "date": "2025-12-17T13:42:16.313Z"
+    },
+    {
+      "id": 1765978942665,
+      "previousBalance": 100,
+      "newBalance": 10000,
+      "difference": 9900,
+      "reason": "initial",
+      "notes": "",
+      "date": "2025-12-17T13:42:22.665Z"
     }
   ],
   "totalReceiptsGenerated": 3,
-  "lastUpdated": "2025-12-17T13:42:15.459Z"
+  "lastUpdated": "2025-12-17T13:42:22.665Z"
 }
