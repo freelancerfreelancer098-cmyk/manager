@@ -34,9 +34,10 @@
       "paymentStatus": "completed",
       "notes": "a",
       "date": "2025-12-17T04:33:52.496Z",
-      "delivered": false,
+      "delivered": true,
       "totalPrice": 1,
-      "remainingAmount": 1
+      "remainingAmount": 1,
+      "deliveryDate": "2025-12-17"
     }
   ],
   "workers": [],
@@ -75,5 +76,5 @@
     }
   ],
   "totalReceiptsGenerated": 2,
-  "lastUpdated": "2025-12-17T04:34:02.279Z"
+  "lastUpdated": "2025-12-17T04:34:09.419Z"
 }
