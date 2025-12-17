@@ -5,14 +5,40 @@
       "name": "test",
       "company": "1",
       "price": 1,
-      "stock": 1,
+      "stock": 0,
       "designs": "1",
       "category": "interiors",
       "description": "1",
       "dateAdded": "2025-12-17T04:32:15.678Z"
     }
   ],
-  "sales": [],
+  "sales": [
+    {
+      "id": 1,
+      "productId": 1,
+      "productName": "test",
+      "quantity": 1,
+      "pricePerUnit": 1,
+      "designName": "1",
+      "customerName": "1",
+      "customerPhone": "1",
+      "customerAddress": "1",
+      "advancePaid": 0,
+      "paymentMethod": "online",
+      "bankName": "A",
+      "accountNumber": "a",
+      "accountHolder": "a",
+      "startDate": "2025-01-17",
+      "endDate": "",
+      "status": "completed",
+      "paymentStatus": "completed",
+      "notes": "a",
+      "date": "2025-12-17T04:33:52.496Z",
+      "delivered": false,
+      "totalPrice": 1,
+      "remainingAmount": 1
+    }
+  ],
   "workers": [],
   "ceilings": [],
   "ceilingSales": [],
@@ -49,5 +75,5 @@
     }
   ],
   "totalReceiptsGenerated": 1,
-  "lastUpdated": "2025-12-17T04:32:15.678Z"
+  "lastUpdated": "2025-12-17T04:33:52.496Z"
 }
