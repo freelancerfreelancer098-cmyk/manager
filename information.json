@@ -90,8 +90,8 @@
       "dateAdded": "2025-12-17T11:20:40.704Z"
     }
   ],
-  "ceilingsWork": [],
-  "ceilingsSales": [],
+  "ceilings": [],
+  "ceilingSales": [],
   "newCustomers": [],
   "expenses": [
     {
@@ -112,7 +112,7 @@
       "date": "2025-12-17T03:38:49.091Z"
     }
   ],
-  "initialBalance": 10000,
+  "initialBalance": 100,
   "adjustments": [
     {
       "id": 1765945173203,
@@ -122,8 +122,17 @@
       "reason": "initial",
       "notes": "",
       "date": "2025-12-17T04:19:33.203Z"
+    },
+    {
+      "id": 1765978935459,
+      "previousBalance": 10000,
+      "newBalance": 100,
+      "difference": -9900,
+      "reason": "initial",
+      "notes": "",
+      "date": "2025-12-17T13:42:15.459Z"
     }
   ],
   "totalReceiptsGenerated": 3,
-  "lastUpdated": "2025-12-17T12:56:12.464Z"
+  "lastUpdated": "2025-12-17T13:42:15.459Z"
 }
