@@ -38,6 +38,30 @@
       "totalPrice": 1,
       "remainingAmount": 1,
       "deliveryDate": "2025-12-17"
+    },
+    {
+      "id": 2,
+      "productId": 1,
+      "productName": "1",
+      "quantity": 1,
+      "pricePerUnit": 1,
+      "designName": "1",
+      "customerName": "1",
+      "customerPhone": "1",
+      "customerAddress": "1",
+      "advancePaid": 1,
+      "paymentMethod": "cash",
+      "bankName": "",
+      "accountNumber": "",
+      "accountHolder": "",
+      "startDate": "2025-12-17",
+      "endDate": "11111-01-01",
+      "status": "pending",
+      "paymentStatus": "pending",
+      "notes": "",
+      "date": "2025-12-17",
+      "totalPrice": 1,
+      "remainingAmount": 0
     }
   ],
   "customers": [
@@ -101,5 +125,5 @@
     }
   ],
   "totalReceiptsGenerated": 3,
-  "lastUpdated": "2025-12-17T12:56:10.273Z"
+  "lastUpdated": "2025-12-17T12:56:12.464Z"
 }
