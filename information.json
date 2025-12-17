@@ -19,17 +19,7 @@
   "newCustomers": [],
   "expenses": [],
   "initialBalance": 0,
-  "adjustments": [
-    {
-      "id": 1765938286364,
-      "previousBalance": 0,
-      "newBalance": 0,
-      "difference": 0,
-      "reason": "initial",
-      "notes": "",
-      "date": "2025-12-17T02:24:46.364Z"
-    }
-  ],
+  "adjustments": [],
   "totalReceiptsGenerated": 0,
-  "lastUpdated": "2025-12-17T02:28:56.794Z"
+  "lastUpdated": "2025-12-17T03:28:41.156Z"
 }
