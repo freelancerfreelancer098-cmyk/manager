@@ -1,116 +1,25 @@
 {
   "products": [
     {
-      "id": 6,
-      "name": "Wallpaper",
-      "company": "Shaheen",
-      "price": 10000,
-      "stock": 999,
-      "designs": null,
-      "category": "decor",
-      "description": "Mirza gee Wallpaper Products",
-      "dateAdded": "2025-12-14T02:02:25.554Z"
-    },
-    {
-      "id": 7,
-      "name": "Doors",
-      "company": "",
-      "price": 370,
-      "stock": 10,
-      "designs": "Brown Hardware",
-      "category": "office",
-      "description": "Mirza gee products",
-      "dateAdded": "2025-12-15T18:45:24.291Z"
+      "id": 1,
+      "name": "Modern TV Unit",
+      "company": "WoodCraft",
+      "price": 45000,
+      "stock": 5,
+      "designs": "Design-01",
+      "category": "tv",
+      "description": "Modern TV unit with LED lighting",
+      "dateAdded": "2025-12-17"
     }
   ],
-  "sales": [
-    {
-      "id": 5,
-      "productId": 6,
-      "productName": "Wallpaper",
-      "pricePerUnit": 10000,
-      "quantity": 1,
-      "designName": "White",
-      "customerName": "Ali",
-      "customerPhone": "03086009325",
-      "customerAddress": "Prime valley",
-      "advancePaid": 5000,
-      "paymentMethod": "bank",
-      "status": "completed",
-      "notes": "Mirza gee interior",
-      "saleDate": "2025-12-14T02:05:01.495Z",
-      "paymentStatus": "pending",
-      "bankName": "",
-      "accountNumber": "",
-      "accountHolder": "",
-      "endDate": "2025-12-16",
-      "startDate": "2025-12-12"
-    }
-  ],
+  "sales": [],
   "workers": [],
   "ceilings": [],
   "ceilingSales": [],
   "newCustomers": [],
   "expenses": [],
   "initialBalance": 0,
-  "adjustments": [
-    {
-      "id": 1,
-      "amount": 4,
-      "reason": "correction",
-      "notes": "",
-      "date": "2025-12-15T14:16:41.385Z"
-    },
-    {
-      "id": 2,
-      "amount": 0,
-      "reason": "correction",
-      "notes": "",
-      "date": "2025-12-15T14:16:54.617Z"
-    },
-    {
-      "id": 3,
-      "amount": 0,
-      "reason": "correction",
-      "notes": "",
-      "date": "2025-12-15T14:16:55.920Z"
-    },
-    {
-      "id": 4,
-      "amount": 1,
-      "reason": "correction",
-      "notes": "",
-      "date": "2025-12-15T14:17:02.720Z"
-    },
-    {
-      "id": 5,
-      "amount": 1,
-      "reason": "correction",
-      "notes": "",
-      "date": "2025-12-15T14:17:03.931Z"
-    },
-    {
-      "id": 6,
-      "amount": 0,
-      "reason": "correction",
-      "notes": "",
-      "date": "2025-12-15T14:17:23.984Z"
-    },
-    {
-      "id": 7,
-      "amount": 0,
-      "reason": "correction",
-      "notes": "",
-      "date": "2025-12-15T14:17:28.647Z"
-    },
-    {
-      "id": 8,
-      "amount": 0,
-      "reason": "initial",
-      "notes": "",
-      "date": "2025-12-16T13:27:21.492Z"
-    }
-  ],
+  "adjustments": [],
   "totalReceiptsGenerated": 0,
-  "lastUpdated": "2025-12-16T16:08:39.623Z"
+  "lastUpdated": "2025-12-17T02:08:56.619Z"
 }
