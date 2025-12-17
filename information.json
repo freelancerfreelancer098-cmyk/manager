@@ -1,17 +1,5 @@
 {
-  "products": [
-    {
-      "id": 1,
-      "name": "Modern TV Unit",
-      "company": "WoodCraft",
-      "price": 45000,
-      "stock": 5,
-      "designs": "Design-01",
-      "category": "tv",
-      "description": "Modern TV unit with LED lighting",
-      "dateAdded": "2025-12-17"
-    }
-  ],
+  "products": [],
   "sales": [],
   "workers": [],
   "ceilings": [],
@@ -21,5 +9,5 @@
   "initialBalance": 0,
   "adjustments": [],
   "totalReceiptsGenerated": 0,
-  "lastUpdated": "2025-12-17T03:28:41.156Z"
+  "lastUpdated": "2025-12-17T03:33:41.162Z"
 }
