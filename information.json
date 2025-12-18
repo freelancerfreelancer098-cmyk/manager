@@ -17,7 +17,7 @@
       "company": "Shaheen",
       "price": 10000,
       "priceType": "bundle",
-      "stock": 9,
+      "stock": 8,
       "designs": "3116",
       "category": "lighting",
       "description": "MiRZA GEE PRODUCTS",
@@ -79,7 +79,7 @@
       "remainingAmount": 0
     },
     {
-      "id": 3,
+      "id": 4,
       "productId": 2,
       "productName": "Wallpaper",
       "quantity": 1,
@@ -97,6 +97,31 @@
       "endDate": "",
       "status": "pending",
       "paymentStatus": "pending",
+      "notes": "Mirza Gee Products",
+      "date": "2025-07-17T20:32:15.219Z",
+      "delivered": false,
+      "totalPrice": 10000,
+      "remainingAmount": 5000
+    },
+    {
+      "id": 3,
+      "productId": 2,
+      "productName": "Wallpaper",
+      "quantity": 1,
+      "pricePerUnit": 10000,
+      "designName": "3116",
+      "customerName": "Saad Mirza",
+      "customerPhone": "03086009321",
+      "customerAddress": "Prime Valley",
+      "advancePaid": 5000,
+      "paymentMethod": "cash",
+      "bankName": "",
+      "accountNumber": "",
+      "accountHolder": "",
+      "startDate": "2025-07-17",
+      "endDate": "2025-07-18",
+      "status": "completed",
+      "paymentStatus": "completed",
       "notes": "Mirza Gee Products",
       "date": "2025-07-17T20:32:12.389Z",
       "delivered": false,
@@ -123,9 +148,9 @@
       "type": "regular",
       "notes": "Added from sale",
       "dateAdded": "2025-07-17T20:32:12.390Z",
-      "totalPurchases": 1,
-      "totalSpent": 10000,
-      "lastPurchase": "2025-07-17T20:32:12.390Z"
+      "totalPurchases": 2,
+      "totalSpent": 20000,
+      "lastPurchase": "2025-07-17T20:32:15.219Z"
     }
   ],
   "workers": [],
@@ -217,7 +242,7 @@
       "date": "2025-12-18T02:37:18.534Z"
     }
   ],
-  "initialBalance": 10000,
+  "initialBalance": 20000,
   "adjustments": [
     {
       "id": 1765945173203,
@@ -284,5 +309,5 @@
     }
   ],
   "totalReceiptsGenerated": 7,
-  "lastUpdated": "2025-07-17T20:32:12.390Z"
+  "lastUpdated": "2025-07-17T20:33:12.236Z"
 }
