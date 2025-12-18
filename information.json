@@ -305,7 +305,7 @@
       "date": "2025-12-18T02:37:18.534Z"
     }
   ],
-  "initialBalance": 30000,
+  "initialBalance": 20000,
   "adjustments": [
     {
       "id": 1765945173203,
@@ -369,8 +369,17 @@
       "reason": "expense",
       "notes": "",
       "date": "2025-12-18T02:39:39.358Z"
+    },
+    {
+      "id": 1752786006717,
+      "previousBalance": 30000,
+      "newBalance": 20000,
+      "difference": -10000,
+      "reason": "initial",
+      "notes": "",
+      "date": "2025-07-17T21:00:06.717Z"
     }
   ],
   "totalReceiptsGenerated": 8,
-  "lastUpdated": "2025-07-17T20:57:15.986Z"
+  "lastUpdated": "2025-07-17T21:00:06.717Z"
 }
