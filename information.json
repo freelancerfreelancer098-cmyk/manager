@@ -95,8 +95,8 @@
       "accountHolder": "",
       "startDate": "2025-07-17",
       "endDate": "",
-      "status": "pending",
-      "paymentStatus": "pending",
+      "status": "completed",
+      "paymentStatus": "completed",
       "notes": "MIrza gee products limited",
       "date": "2025-07-17T20:56:23.597Z",
       "delivered": false,
@@ -146,7 +146,7 @@
       "startDate": "2025-07-17",
       "endDate": "",
       "status": "completed",
-      "paymentStatus": "completed",
+      "paymentStatus": "pending",
       "notes": "Mirza Gee Products",
       "date": "2025-07-17T20:32:15.219Z",
       "delivered": false,
@@ -381,5 +381,5 @@
     }
   ],
   "totalReceiptsGenerated": 9,
-  "lastUpdated": "2025-07-17T21:02:09.681Z"
+  "lastUpdated": "2025-07-17T21:02:41.284Z"
 }
