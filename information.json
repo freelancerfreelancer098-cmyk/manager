@@ -17,7 +17,7 @@
       "company": "Shaheen",
       "price": 10000,
       "priceType": "bundle",
-      "stock": 8,
+      "stock": 7,
       "designs": "3116",
       "category": "lighting",
       "description": "MiRZA GEE PRODUCTS",
@@ -127,6 +127,31 @@
       "delivered": false,
       "totalPrice": 10000,
       "remainingAmount": 5000
+    },
+    {
+      "id": 5,
+      "productId": 2,
+      "productName": "Wallpaper",
+      "quantity": 1,
+      "pricePerUnit": 10000,
+      "designName": "3116",
+      "customerName": "ali",
+      "customerPhone": "030001234567",
+      "customerAddress": "Lahore Road",
+      "advancePaid": 5000,
+      "paymentMethod": "cash",
+      "bankName": "",
+      "accountNumber": "",
+      "accountHolder": "",
+      "startDate": "2025-07-17",
+      "endDate": "",
+      "status": "pending",
+      "paymentStatus": "pending",
+      "notes": "MIrza gee products limited",
+      "date": "2025-07-17T20:56:21.849Z",
+      "delivered": false,
+      "totalPrice": 10000,
+      "remainingAmount": 5000
     }
   ],
   "customers": [
@@ -151,6 +176,19 @@
       "totalPurchases": 2,
       "totalSpent": 20000,
       "lastPurchase": "2025-07-17T20:32:15.219Z"
+    },
+    {
+      "id": 3,
+      "name": "ali",
+      "phone": "030001234567",
+      "address": "Lahore Road",
+      "email": "",
+      "type": "regular",
+      "notes": "Added from sale",
+      "dateAdded": "2025-07-17T20:56:21.849Z",
+      "totalPurchases": 1,
+      "totalSpent": 10000,
+      "lastPurchase": "2025-07-17T20:56:21.849Z"
     }
   ],
   "workers": [],
@@ -309,5 +347,5 @@
     }
   ],
   "totalReceiptsGenerated": 8,
-  "lastUpdated": "2025-07-17T20:34:06.259Z"
+  "lastUpdated": "2025-07-17T20:56:21.850Z"
 }
