@@ -10,6 +10,21 @@
       "category": "tv",
       "description": "1",
       "dateAdded": "2025-12-17T11:55:25.744Z"
+    },
+    {
+      "id": 2,
+      "name": "Wallpaper",
+      "company": "Shaheen",
+      "price": 10000,
+      "priceType": "bundle",
+      "stock": 10,
+      "designs": "3116",
+      "category": "lighting",
+      "description": "MiRZA GEE PRODUCTS",
+      "dateAdded": "2025-07-17T20:30:06.559Z",
+      "bundlePrice": 10000,
+      "piecesInBundle": 1,
+      "pricePerPiece": 10000
     }
   ],
   "sales": [
@@ -231,5 +246,5 @@
     }
   ],
   "totalReceiptsGenerated": 7,
-  "lastUpdated": "2025-12-18T02:39:39.358Z"
+  "lastUpdated": "2025-07-17T20:30:06.563Z"
 }
