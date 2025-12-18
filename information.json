@@ -210,8 +210,26 @@
       "reason": "correction",
       "notes": "",
       "date": "2025-12-18T02:39:22.869Z"
+    },
+    {
+      "id": 1766025564580,
+      "previousBalance": 10000,
+      "newBalance": 10000,
+      "difference": 0,
+      "reason": "correction",
+      "notes": "",
+      "date": "2025-12-18T02:39:24.580Z"
+    },
+    {
+      "id": 1766025579358,
+      "previousBalance": 10000,
+      "newBalance": 10000,
+      "difference": 0,
+      "reason": "expense",
+      "notes": "",
+      "date": "2025-12-18T02:39:39.358Z"
     }
   ],
   "totalReceiptsGenerated": 7,
-  "lastUpdated": "2025-12-18T02:39:22.875Z"
+  "lastUpdated": "2025-12-18T02:39:39.358Z"
 }
