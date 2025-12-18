@@ -118,6 +118,50 @@
       ],
       "total": 143,
       "date": "2025-12-18T02:29:59.437Z"
+    },
+    {
+      "id": 1,
+      "items": [
+        {
+          "service": "H",
+          "description": "",
+          "amount": 14
+        },
+        {
+          "service": "W",
+          "description": "",
+          "amount": 16
+        },
+        {
+          "service": "R",
+          "description": "",
+          "amount": 260
+        }
+      ],
+      "total": 290,
+      "date": "2025-12-18T02:37:18.137Z"
+    },
+    {
+      "id": 2,
+      "items": [
+        {
+          "service": "H",
+          "description": "",
+          "amount": 14
+        },
+        {
+          "service": "W",
+          "description": "",
+          "amount": 16
+        },
+        {
+          "service": "R",
+          "description": "",
+          "amount": 260
+        }
+      ],
+      "total": 290,
+      "date": "2025-12-18T02:37:18.534Z"
     }
   ],
   "initialBalance": 10000,
@@ -159,6 +203,6 @@
       "date": "2025-12-17T13:42:22.665Z"
     }
   ],
-  "totalReceiptsGenerated": 5,
-  "lastUpdated": "2025-12-18T02:29:59.447Z"
+  "totalReceiptsGenerated": 7,
+  "lastUpdated": "2025-12-18T02:37:18.535Z"
 }
