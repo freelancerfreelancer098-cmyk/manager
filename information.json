@@ -86,7 +86,7 @@
       "pricePerUnit": 10000,
       "designName": "3116",
       "customerName": "ali",
-      "customerPhone": "030001234567",
+      "customerPhone": "03086009321",
       "customerAddress": "Lahore Road",
       "advancePaid": 5000,
       "paymentMethod": "cash",
@@ -381,5 +381,5 @@
     }
   ],
   "totalReceiptsGenerated": 9,
-  "lastUpdated": "2025-07-17T21:03:05.404Z"
+  "lastUpdated": "2025-12-19T03:57:12.198Z"
 }
