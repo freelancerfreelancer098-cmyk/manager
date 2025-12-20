@@ -260,6 +260,16 @@
       "type": "regular",
       "notes": "First purchase: Wallpaper",
       "dateAdded": "2025-12-20T02:41:42.429Z"
+    },
+    {
+      "id": 5,
+      "name": "ALI",
+      "phone": "1000000000",
+      "address": "1",
+      "email": "",
+      "type": "regular",
+      "notes": "Ceiling service: test",
+      "dateAdded": "2025-12-20T02:44:15.196Z"
     }
   ],
   "workers": [
@@ -292,7 +302,32 @@
       "dateAdded": "2025-12-19T16:55:34.916Z"
     }
   ],
-  "ceilingSales": [],
+  "ceilingSales": [
+    {
+      "id": 1,
+      "ceilingId": 1,
+      "productName": "test",
+      "designName": "t",
+      "designCode": "11",
+      "area": 1,
+      "rate": 1,
+      "totalAmount": 1,
+      "serviceType": "false ceiling",
+      "material": "metal",
+      "description": "test",
+      "customerName": "ALI",
+      "customerPhone": "1000000000",
+      "customerAddress": "1",
+      "advancePaid": 1000,
+      "paymentMethod": "cash",
+      "status": "completed",
+      "bankName": "",
+      "accountNumber": "",
+      "accountHolder": "",
+      "notes": "199",
+      "saleDate": "2025-12-20T02:44:15.196Z"
+    }
+  ],
   "newCustomers": [],
   "expenses": [
     {
@@ -464,5 +499,5 @@
     }
   ],
   "totalReceiptsGenerated": 10,
-  "lastUpdated": "2025-12-20T02:43:24.456Z"
+  "lastUpdated": "2025-12-20T02:44:15.197Z"
 }
