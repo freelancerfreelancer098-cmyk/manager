@@ -248,9 +248,9 @@
       "quantity": 1,
       "totalPrice": 10000,
       "designName": "Blue",
-      "customerName": "1",
-      "customerPhone": "1",
-      "customerAddress": "1",
+      "customerName": "10000",
+      "customerPhone": "",
+      "customerAddress": "11111",
       "advancePaid": 5000,
       "paymentMethod": "cash",
       "paymentStatus": "completed",
@@ -262,7 +262,7 @@
       "accountHolder": "",
       "notes": "1",
       "delivered": false,
-      "date": "2025-12-20T04:05:15.854Z"
+      "date": "2025-12-20T04:06:38.293Z"
     }
   ],
   "customers": [
@@ -559,5 +559,5 @@
     }
   ],
   "totalReceiptsGenerated": 11,
-  "lastUpdated": "2025-12-20T04:05:15.855Z"
+  "lastUpdated": "2025-12-20T04:06:38.293Z"
 }
