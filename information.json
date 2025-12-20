@@ -1,5 +1,18 @@
 {
-  "products": [],
+  "products": [
+    {
+      "id": 4,
+      "name": "Wallpaper",
+      "company": "Shaheen",
+      "price": 100000,
+      "priceType": "single",
+      "stock": 10,
+      "designs": "1245",
+      "category": "loughn",
+      "description": "MirzaGee Interior",
+      "dateAdded": "2025-07-19T12:13:54.080Z"
+    }
+  ],
   "sales": [
     {
       "id": 10,
@@ -546,5 +559,5 @@
     }
   ],
   "totalReceiptsGenerated": 11,
-  "lastUpdated": "2025-07-19T12:09:54.771Z"
+  "lastUpdated": "2025-07-19T12:13:54.081Z"
 }
