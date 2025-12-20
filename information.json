@@ -210,7 +210,7 @@
       "paymentStatus": "completed",
       "notes": "Mirza Gee Products",
       "date": "2025-07-17T20:32:12.389Z",
-      "delivered": false,
+      "delivered": true,
       "totalPrice": 10000,
       "remainingAmount": 5000
     }
@@ -451,5 +451,5 @@
     }
   ],
   "totalReceiptsGenerated": 10,
-  "lastUpdated": "2025-12-20T02:42:06.262Z"
+  "lastUpdated": "2025-12-20T02:42:22.320Z"
 }
