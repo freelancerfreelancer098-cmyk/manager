@@ -6,7 +6,7 @@
       "company": "Mirza G Interiors",
       "price": 10000,
       "priceType": "single",
-      "stock": 99,
+      "stock": 97,
       "designs": "Blue",
       "category": "decor",
       "description": "Mirza G new product",
@@ -188,6 +188,31 @@
       "delivered": false,
       "totalPrice": 10000,
       "remainingAmount": 5000
+    },
+    {
+      "id": 8,
+      "productId": 3,
+      "productName": "Wallpaper",
+      "productCompany": "Mirza G Interiors",
+      "pricePerUnit": 10000,
+      "quantity": 2,
+      "totalPrice": 20000,
+      "designName": "Blue",
+      "customerName": "Ahmed",
+      "customerPhone": "+92 3365744074",
+      "customerAddress": "No",
+      "advancePaid": 10000,
+      "paymentMethod": "cash",
+      "paymentStatus": "completed",
+      "orderStatus": "completed",
+      "startDate": "2025-12-20",
+      "endDate": "",
+      "bankName": "",
+      "accountNumber": "",
+      "accountHolder": "",
+      "notes": "1",
+      "delivered": false,
+      "date": "2025-12-20T02:41:42.429Z"
     }
   ],
   "customers": [
@@ -225,6 +250,16 @@
       "totalPurchases": 2,
       "totalSpent": 20000,
       "lastPurchase": "2025-07-17T20:56:23.597Z"
+    },
+    {
+      "id": 4,
+      "name": "Ahmed",
+      "phone": "+92 3365744074",
+      "address": "No",
+      "email": "",
+      "type": "regular",
+      "notes": "First purchase: Wallpaper",
+      "dateAdded": "2025-12-20T02:41:42.429Z"
     }
   ],
   "workers": [],
@@ -416,5 +451,5 @@
     }
   ],
   "totalReceiptsGenerated": 10,
-  "lastUpdated": "2025-12-20T02:40:12.520Z"
+  "lastUpdated": "2025-12-20T02:41:42.430Z"
 }
