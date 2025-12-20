@@ -6,7 +6,7 @@
       "company": "Shaheen",
       "price": 100000,
       "priceType": "single",
-      "stock": 10,
+      "stock": 9,
       "designs": "1245",
       "category": "loughn",
       "description": "MirzaGee Interior",
@@ -263,6 +263,31 @@
       "delivered": true,
       "totalPrice": 10000,
       "remainingAmount": 5000
+    },
+    {
+      "id": 11,
+      "productId": 4,
+      "productName": "Wallpaper",
+      "productCompany": "Shaheen",
+      "pricePerUnit": 100000,
+      "quantity": 1,
+      "totalPrice": 100000,
+      "designName": "1245",
+      "customerName": "Shahzad",
+      "customerPhone": "03001004590",
+      "customerAddress": "W block newe satelite town",
+      "advancePaid": 5000,
+      "paymentMethod": "online",
+      "paymentStatus": "completed",
+      "orderStatus": "pending",
+      "startDate": "2025-07-19",
+      "endDate": "",
+      "bankName": "jazzcash",
+      "accountNumber": "03001004590",
+      "accountHolder": "Shahzad",
+      "notes": "MirzaGeeProduct",
+      "delivered": false,
+      "date": "2025-07-19T12:18:35.212Z"
     }
   ],
   "customers": [
@@ -330,6 +355,16 @@
       "type": "regular",
       "notes": "First purchase: Wallpaper",
       "dateAdded": "2025-12-20T02:46:32.329Z"
+    },
+    {
+      "id": 7,
+      "name": "Shahzad",
+      "phone": "03001004590",
+      "address": "W block newe satelite town",
+      "email": "",
+      "type": "regular",
+      "notes": "First purchase: Wallpaper",
+      "dateAdded": "2025-07-19T12:18:35.212Z"
     }
   ],
   "workers": [
@@ -559,5 +594,5 @@
     }
   ],
   "totalReceiptsGenerated": 11,
-  "lastUpdated": "2025-07-19T12:13:54.081Z"
+  "lastUpdated": "2025-07-19T12:18:35.213Z"
 }
