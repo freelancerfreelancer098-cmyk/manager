@@ -15,6 +15,31 @@
   ],
   "sales": [
     {
+      "id": 7,
+      "productId": 3,
+      "productName": "Wallpaper",
+      "productCompany": "Mirza G Interiors",
+      "pricePerUnit": 10000,
+      "quantity": 1,
+      "totalPrice": 10000,
+      "designName": "Blue",
+      "customerName": "Saad MIrza",
+      "customerPhone": "1",
+      "customerAddress": "2",
+      "advancePaid": 5000,
+      "paymentMethod": "cash",
+      "paymentStatus": "completed",
+      "orderStatus": "completed",
+      "startDate": "2025-12-20",
+      "endDate": "",
+      "bankName": "",
+      "accountNumber": "",
+      "accountHolder": "",
+      "notes": "111",
+      "delivered": false,
+      "date": "2025-12-20T02:38:40.756Z"
+    },
+    {
       "id": 1,
       "productId": 1,
       "productName": "test",
@@ -163,31 +188,6 @@
       "delivered": false,
       "totalPrice": 10000,
       "remainingAmount": 5000
-    },
-    {
-      "id": 7,
-      "productId": 3,
-      "productName": "Wallpaper",
-      "productCompany": "Mirza G Interiors",
-      "pricePerUnit": 10000,
-      "quantity": 1,
-      "totalPrice": 10000,
-      "designName": "Blue",
-      "customerName": "Saad MIrza",
-      "customerPhone": "1",
-      "customerAddress": "2",
-      "advancePaid": 5000,
-      "paymentMethod": "cash",
-      "paymentStatus": "completed",
-      "orderStatus": "completed",
-      "startDate": "2025-12-20",
-      "endDate": "",
-      "bankName": "",
-      "accountNumber": "",
-      "accountHolder": "",
-      "notes": "111",
-      "delivered": false,
-      "date": "2025-12-20T02:38:40.756Z"
     }
   ],
   "customers": [
@@ -331,7 +331,7 @@
       "date": "2025-12-18T02:37:18.534Z"
     }
   ],
-  "initialBalance": 20000,
+  "initialBalance": 0,
   "adjustments": [
     {
       "id": 1765945173203,
@@ -404,8 +404,17 @@
       "reason": "initial",
       "notes": "",
       "date": "2025-07-17T21:00:06.717Z"
+    },
+    {
+      "id": 1766198394492,
+      "previousBalance": 20000,
+      "newBalance": 0,
+      "difference": -20000,
+      "reason": "initial",
+      "notes": "",
+      "date": "2025-12-20T02:39:54.492Z"
     }
   ],
   "totalReceiptsGenerated": 10,
-  "lastUpdated": "2025-12-20T02:38:40.756Z"
+  "lastUpdated": "2025-12-20T02:39:54.492Z"
 }
