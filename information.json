@@ -4,7 +4,7 @@
       "id": 4,
       "name": "Wallpaper",
       "company": "Shaheen",
-      "price": 100000,
+      "price": 10000,
       "priceType": "single",
       "stock": 9,
       "designs": "1245",
@@ -165,6 +165,31 @@
       "remainingAmount": 0
     },
     {
+      "id": 11,
+      "productId": 4,
+      "productName": "Wallpaper",
+      "productCompany": "Shaheen",
+      "pricePerUnit": 100000,
+      "quantity": 1,
+      "totalPrice": 100000,
+      "designName": "1245",
+      "customerName": "Shahzad",
+      "customerPhone": "03001004590",
+      "customerAddress": "W block newe satelite town",
+      "advancePaid": 5000,
+      "paymentMethod": "online",
+      "paymentStatus": "completed",
+      "orderStatus": "pending",
+      "startDate": "2025-07-19",
+      "endDate": "",
+      "bankName": "jazzcash",
+      "accountNumber": "03001004590",
+      "accountHolder": "Shahzad",
+      "notes": "MirzaGeeProduct",
+      "delivered": false,
+      "date": "2025-07-19T12:18:35.212Z"
+    },
+    {
       "id": 6,
       "productId": 2,
       "productName": "Wallpaper",
@@ -263,31 +288,6 @@
       "delivered": true,
       "totalPrice": 10000,
       "remainingAmount": 5000
-    },
-    {
-      "id": 11,
-      "productId": 4,
-      "productName": "Wallpaper",
-      "productCompany": "Shaheen",
-      "pricePerUnit": 100000,
-      "quantity": 1,
-      "totalPrice": 100000,
-      "designName": "1245",
-      "customerName": "Shahzad",
-      "customerPhone": "03001004590",
-      "customerAddress": "W block newe satelite town",
-      "advancePaid": 5000,
-      "paymentMethod": "online",
-      "paymentStatus": "completed",
-      "orderStatus": "pending",
-      "startDate": "2025-07-19",
-      "endDate": "",
-      "bankName": "jazzcash",
-      "accountNumber": "03001004590",
-      "accountHolder": "Shahzad",
-      "notes": "MirzaGeeProduct",
-      "delivered": false,
-      "date": "2025-07-19T12:18:35.212Z"
     }
   ],
   "customers": [
@@ -594,5 +594,5 @@
     }
   ],
   "totalReceiptsGenerated": 11,
-  "lastUpdated": "2025-07-19T12:18:36.685Z"
+  "lastUpdated": "2025-07-19T12:19:02.767Z"
 }
