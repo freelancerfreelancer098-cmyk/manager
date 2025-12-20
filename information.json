@@ -110,7 +110,7 @@
       "paymentStatus": "completed",
       "notes": "MIrza gee products limited",
       "date": "2025-07-17T20:56:21.849Z",
-      "delivered": false,
+      "delivered": true,
       "totalPrice": 10000,
       "remainingAmount": 5000
     },
@@ -382,5 +382,5 @@
     }
   ],
   "totalReceiptsGenerated": 10,
-  "lastUpdated": "2025-12-19T16:55:34.917Z"
+  "lastUpdated": "2025-12-20T02:36:55.192Z"
 }
