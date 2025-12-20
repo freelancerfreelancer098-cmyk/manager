@@ -6,7 +6,7 @@
       "company": "Mirza G Interiors",
       "price": 10000,
       "priceType": "single",
-      "stock": 100,
+      "stock": 99,
       "designs": "Blue",
       "category": "decor",
       "description": "Mirza G new product",
@@ -163,6 +163,31 @@
       "delivered": false,
       "totalPrice": 10000,
       "remainingAmount": 5000
+    },
+    {
+      "id": 7,
+      "productId": 3,
+      "productName": "Wallpaper",
+      "productCompany": "Mirza G Interiors",
+      "pricePerUnit": 10000,
+      "quantity": 1,
+      "totalPrice": 10000,
+      "designName": "Blue",
+      "customerName": "Saad MIrza",
+      "customerPhone": "1",
+      "customerAddress": "2",
+      "advancePaid": 5000,
+      "paymentMethod": "cash",
+      "paymentStatus": "completed",
+      "orderStatus": "completed",
+      "startDate": "2025-12-20",
+      "endDate": "",
+      "bankName": "",
+      "accountNumber": "",
+      "accountHolder": "",
+      "notes": "111",
+      "delivered": false,
+      "date": "2025-12-20T02:38:40.756Z"
     }
   ],
   "customers": [
@@ -382,5 +407,5 @@
     }
   ],
   "totalReceiptsGenerated": 10,
-  "lastUpdated": "2025-12-20T02:36:55.192Z"
+  "lastUpdated": "2025-12-20T02:38:40.756Z"
 }
