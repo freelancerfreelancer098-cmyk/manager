@@ -262,7 +262,20 @@
       "dateAdded": "2025-12-20T02:41:42.429Z"
     }
   ],
-  "workers": [],
+  "workers": [
+    {
+      "id": 1,
+      "name": "Ali",
+      "phone": "100000",
+      "address": "100",
+      "skills": "Ceiling Maker",
+      "experience": 20,
+      "dailyIncome": 3000,
+      "perFootRate": 1000,
+      "notes": "These are for example",
+      "dateAdded": "2025-12-20T02:43:24.456Z"
+    }
+  ],
   "ceilings": [
     {
       "id": 1,
@@ -451,5 +464,5 @@
     }
   ],
   "totalReceiptsGenerated": 10,
-  "lastUpdated": "2025-12-20T02:42:22.320Z"
+  "lastUpdated": "2025-12-20T02:43:24.456Z"
 }
