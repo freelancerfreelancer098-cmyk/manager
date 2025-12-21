@@ -48,7 +48,7 @@
       "accountNumber": "",
       "accountHolder": "",
       "orderStatus": "completed",
-      "paymentStatus": "completed",
+      "paymentStatus": "pending",
       "deliveryStatus": "delivered",
       "startDate": "2025-12-21",
       "endDate": "",
@@ -87,7 +87,7 @@
   "ceilingSales": [],
   "newCustomers": [],
   "expenses": [],
-  "initialBalance": 20000,
+  "initialBalance": 10000,
   "adjustments": [
     {
       "type": "sale",
@@ -126,9 +126,15 @@
       "amount": -1000,
       "date": "2025-12-21T18:31:52.206Z",
       "description": "Payment reversed for sale #2 - gypsim ceiling"
+    },
+    {
+      "type": "payment_reversed",
+      "amount": -10000,
+      "date": "2025-12-21T18:31:57.003Z",
+      "description": "Payment reversed for sale #1 - Modern TV Unit"
     }
   ],
   "totalReceiptsGenerated": 2,
   "totalRevenue": 45065,
-  "lastUpdated": "2025-12-21T18:31:52.207Z"
+  "lastUpdated": "2025-12-21T18:31:57.004Z"
 }
