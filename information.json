@@ -193,7 +193,7 @@
       "customerAddress": "Lahore road chak 88sb",
       "advancePaid": 1400,
       "paymentMethod": "online",
-      "paymentStatus": "pending",
+      "paymentStatus": "completed",
       "orderStatus": "pending",
       "deliveryStatus": "delivered",
       "startDate": "2025-07-20",
@@ -646,5 +646,5 @@
     }
   ],
   "totalReceiptsGenerated": 11,
-  "lastUpdated": "2025-07-20T12:27:20.962Z"
+  "lastUpdated": "2025-07-20T12:28:56.384Z"
 }
