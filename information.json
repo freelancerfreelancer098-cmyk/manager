@@ -48,7 +48,7 @@
       "accountNumber": "",
       "accountHolder": "",
       "orderStatus": "completed",
-      "paymentStatus": "pending",
+      "paymentStatus": "completed",
       "deliveryStatus": "delivered",
       "startDate": "2025-12-21",
       "endDate": "",
@@ -113,7 +113,7 @@
   "ceilingSales": [],
   "newCustomers": [],
   "expenses": [],
-  "initialBalance": 10000,
+  "initialBalance": 20000,
   "adjustments": [
     {
       "type": "sale",
@@ -176,9 +176,15 @@
       "notes": "",
       "oldBalance": 20000,
       "newBalance": 10000
+    },
+    {
+      "type": "payment_received",
+      "amount": 10000,
+      "date": "2025-12-21T20:34:21.164Z",
+      "description": "Payment received for sale #1 - Modern TV Unit"
     }
   ],
   "totalReceiptsGenerated": 2,
   "totalRevenue": 45065,
-  "lastUpdated": "2025-12-21T20:17:28.402Z"
+  "lastUpdated": "2025-12-21T20:34:21.166Z"
 }
