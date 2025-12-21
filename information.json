@@ -287,7 +287,8 @@
       "date": "2025-07-17T20:32:12.389Z",
       "delivered": true,
       "totalPrice": 10000,
-      "remainingAmount": 5000
+      "remainingAmount": 5000,
+      "deliveryStatus": "delivered"
     }
   ],
   "customers": [
@@ -594,5 +595,5 @@
     }
   ],
   "totalReceiptsGenerated": 11,
-  "lastUpdated": "2025-07-19T12:19:02.767Z"
+  "lastUpdated": "2025-12-21T04:53:49.068Z"
 }
