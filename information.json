@@ -227,7 +227,8 @@
       "accountHolder": "Shahzad",
       "notes": "MirzaGeeProduct",
       "delivered": false,
-      "date": "2025-07-19T12:18:35.212Z"
+      "date": "2025-07-19T12:18:35.212Z",
+      "deliveryStatus": "delivered"
     },
     {
       "id": 6,
@@ -646,5 +647,5 @@
     }
   ],
   "totalReceiptsGenerated": 11,
-  "lastUpdated": "2025-07-20T12:28:56.384Z"
+  "lastUpdated": "2025-07-20T12:33:36.379Z"
 }
