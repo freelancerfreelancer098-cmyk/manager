@@ -11,6 +11,19 @@
       "category": "loughn",
       "description": "MirzaGee Interior",
       "dateAdded": "2025-07-19T12:13:54.080Z"
+    },
+    {
+      "id": 6,
+      "name": "Wall panel 10n inch",
+      "company": "akbari",
+      "price": 380,
+      "priceType": "single",
+      "stock": 100,
+      "designs": "sargodha",
+      "designCode": "68903",
+      "category": "bedroom",
+      "description": "mirza gee products",
+      "dateAdded": "2025-07-20T12:19:39.999Z"
     }
   ],
   "sales": [
@@ -596,5 +609,5 @@
     }
   ],
   "totalReceiptsGenerated": 11,
-  "lastUpdated": "2025-07-20T12:15:55.693Z"
+  "lastUpdated": "2025-07-20T12:19:39.999Z"
 }
