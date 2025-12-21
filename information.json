@@ -95,7 +95,20 @@
       "totalSpent": 0
     }
   ],
-  "workers": [],
+  "workers": [
+    {
+      "id": 1,
+      "name": "shahid 380 9 8 inch",
+      "phone": "0345789236",
+      "address": "N/A",
+      "skills": "wall panel",
+      "experience": 3,
+      "dailyIncome": 2000,
+      "perFootRate": 150,
+      "notes": "mirxa gee",
+      "dateAdded": "2025-12-21"
+    }
+  ],
   "ceilings": [],
   "ceilingSales": [],
   "newCustomers": [],
@@ -149,5 +162,5 @@
   ],
   "totalReceiptsGenerated": 2,
   "totalRevenue": 45065,
-  "lastUpdated": "2025-12-21T18:34:01.670Z"
+  "lastUpdated": "2025-12-21T18:36:47.546Z"
 }
