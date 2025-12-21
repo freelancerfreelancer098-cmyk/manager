@@ -73,7 +73,7 @@
       "accountNumber": "",
       "accountHolder": "",
       "orderStatus": "completed",
-      "paymentStatus": "completed",
+      "paymentStatus": "pending",
       "deliveryStatus": "pending",
       "startDate": "2025-12-21",
       "endDate": "2025-12-22",
@@ -87,7 +87,7 @@
   "ceilingSales": [],
   "newCustomers": [],
   "expenses": [],
-  "initialBalance": 21000,
+  "initialBalance": 20000,
   "adjustments": [
     {
       "type": "sale",
@@ -120,9 +120,15 @@
       "amount": 1000,
       "date": "2025-12-21T18:31:14.730Z",
       "description": "Payment received for sale #2 - gypsim ceiling"
+    },
+    {
+      "type": "payment_reversed",
+      "amount": -1000,
+      "date": "2025-12-21T18:31:52.206Z",
+      "description": "Payment reversed for sale #2 - gypsim ceiling"
     }
   ],
   "totalReceiptsGenerated": 2,
   "totalRevenue": 45065,
-  "lastUpdated": "2025-12-21T18:31:14.731Z"
+  "lastUpdated": "2025-12-21T18:31:52.207Z"
 }
