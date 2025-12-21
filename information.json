@@ -59,11 +59,11 @@
     {
       "type": "payment_received",
       "amount": 10000,
-      "date": "2025-12-21T17:49:44.409Z",
+      "date": "2025-12-21T17:50:04.283Z",
       "description": "Payment received for sale #1 - Modern TV Unit"
     }
   ],
   "totalReceiptsGenerated": 1,
   "totalRevenue": 45000,
-  "lastUpdated": "2025-12-21T17:49:44.410Z"
+  "lastUpdated": "2025-12-21T17:50:04.283Z"
 }
