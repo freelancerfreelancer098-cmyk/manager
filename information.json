@@ -175,7 +175,8 @@
       "notes": "",
       "date": "2025-12-17",
       "totalPrice": 1,
-      "remainingAmount": 0
+      "remainingAmount": 0,
+      "deliveryStatus": "delivered"
     },
     {
       "id": 12,
@@ -645,5 +646,5 @@
     }
   ],
   "totalReceiptsGenerated": 11,
-  "lastUpdated": "2025-07-20T12:25:57.226Z"
+  "lastUpdated": "2025-07-20T12:27:20.962Z"
 }
