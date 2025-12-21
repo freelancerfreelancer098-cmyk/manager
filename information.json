@@ -73,7 +73,7 @@
       "accountNumber": "",
       "accountHolder": "",
       "orderStatus": "pending",
-      "paymentStatus": "completed",
+      "paymentStatus": "pending",
       "deliveryStatus": "pending",
       "startDate": "2025-12-21",
       "endDate": "2025-12-22",
@@ -87,7 +87,7 @@
   "ceilingSales": [],
   "newCustomers": [],
   "expenses": [],
-  "initialBalance": 21000,
+  "initialBalance": 20000,
   "adjustments": [
     {
       "type": "sale",
@@ -108,9 +108,15 @@
       "date": "2025-12-21T18:25:14.817Z",
       "description": "Sale of gypsim ceiling to irfan",
       "saleId": 2
+    },
+    {
+      "type": "payment_reversed",
+      "amount": -1000,
+      "date": "2025-12-21T18:26:09.693Z",
+      "description": "Payment reversed for sale #2 - gypsim ceiling"
     }
   ],
   "totalReceiptsGenerated": 2,
   "totalRevenue": 45065,
-  "lastUpdated": "2025-12-21T18:25:14.818Z"
+  "lastUpdated": "2025-12-21T18:26:09.694Z"
 }
