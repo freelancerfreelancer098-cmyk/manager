@@ -18,7 +18,7 @@
       "name": "gypsim ceiling",
       "company": "2467",
       "price": 65,
-      "stock": 1000,
+      "stock": 999,
       "designs": "akbari",
       "designCode": "3893",
       "category": "bedroom",
@@ -54,6 +54,31 @@
       "endDate": "",
       "notes": "11",
       "saleDate": "2025-12-21"
+    },
+    {
+      "id": 2,
+      "productId": 2,
+      "productName": "gypsim ceiling",
+      "productPrice": 65,
+      "quantity": 1,
+      "designName": "akbari",
+      "designCode": "3117",
+      "customerName": "irfan",
+      "customerPhone": "0386492006",
+      "customerAddress": "Lahore road",
+      "advancePaid": 1000,
+      "totalPrice": 65,
+      "paymentMethod": "bank",
+      "bankName": "",
+      "accountNumber": "",
+      "accountHolder": "",
+      "orderStatus": "pending",
+      "paymentStatus": "completed",
+      "deliveryStatus": "pending",
+      "startDate": "2025-12-21",
+      "endDate": "2025-12-22",
+      "notes": "mirxa gee sales",
+      "saleDate": "2025-12-21"
     }
   ],
   "customers": [],
@@ -62,7 +87,7 @@
   "ceilingSales": [],
   "newCustomers": [],
   "expenses": [],
-  "initialBalance": 20000,
+  "initialBalance": 21000,
   "adjustments": [
     {
       "type": "sale",
@@ -76,9 +101,16 @@
       "amount": 10000,
       "date": "2025-12-21T17:50:04.283Z",
       "description": "Payment received for sale #1 - Modern TV Unit"
+    },
+    {
+      "type": "sale",
+      "amount": 1000,
+      "date": "2025-12-21T18:25:14.817Z",
+      "description": "Sale of gypsim ceiling to irfan",
+      "saleId": 2
     }
   ],
   "totalReceiptsGenerated": 2,
-  "totalRevenue": 45000,
-  "lastUpdated": "2025-12-21T18:16:06.241Z"
+  "totalRevenue": 45065,
+  "lastUpdated": "2025-12-21T18:25:14.818Z"
 }
