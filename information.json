@@ -18,7 +18,7 @@
       "company": "akbari",
       "price": 380,
       "priceType": "single",
-      "stock": 100,
+      "stock": 90,
       "designs": "sargodha",
       "designCode": "68903",
       "category": "bedroom",
@@ -303,6 +303,32 @@
       "delivered": true,
       "totalPrice": 10000,
       "remainingAmount": 5000
+    },
+    {
+      "id": 12,
+      "productId": 6,
+      "productName": "Wall panel 10n inch",
+      "productCompany": "akbari",
+      "pricePerUnit": 380,
+      "quantity": 10,
+      "totalPrice": 3800,
+      "designName": "sargodha",
+      "designCode": "68903",
+      "customerName": "Umar",
+      "customerPhone": "0304688231",
+      "customerAddress": "Lahore road chak 88sb",
+      "advancePaid": 1400,
+      "paymentMethod": "online",
+      "paymentStatus": "pending",
+      "orderStatus": "pending",
+      "deliveryStatus": "pending",
+      "startDate": "2025-07-20",
+      "endDate": "",
+      "bankName": "jazzcash",
+      "accountNumber": "03001004590",
+      "accountHolder": "Shahzad",
+      "notes": "stay tunned connected with mirza gee products",
+      "date": "2025-07-20T12:21:34.382Z"
     }
   ],
   "customers": [
@@ -380,6 +406,16 @@
       "type": "regular",
       "notes": "First purchase: Wallpaper",
       "dateAdded": "2025-07-19T12:18:35.212Z"
+    },
+    {
+      "id": 8,
+      "name": "Umar",
+      "phone": "0304688231",
+      "address": "Lahore road chak 88sb",
+      "email": "",
+      "type": "regular",
+      "notes": "First purchase: Wall panel 10n inch",
+      "dateAdded": "2025-07-20T12:21:34.382Z"
     }
   ],
   "workers": [
@@ -609,5 +645,5 @@
     }
   ],
   "totalReceiptsGenerated": 11,
-  "lastUpdated": "2025-07-20T12:19:39.999Z"
+  "lastUpdated": "2025-07-20T12:21:34.383Z"
 }
