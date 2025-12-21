@@ -12,6 +12,21 @@
       "description": "Modern TV unit with LED lighting",
       "dateAdded": "2025-12-21",
       "priceType": "single"
+    },
+    {
+      "id": 2,
+      "name": "gypsim ceiling",
+      "company": "2467",
+      "price": 65,
+      "stock": 1000,
+      "designs": "akbari",
+      "designCode": "3893",
+      "category": "bedroom",
+      "description": "mirza g",
+      "dateAdded": "2025-12-21",
+      "priceType": "single",
+      "bundlePrice": null,
+      "piecesInBundle": null
     }
   ],
   "sales": [
@@ -65,5 +80,5 @@
   ],
   "totalReceiptsGenerated": 1,
   "totalRevenue": 45000,
-  "lastUpdated": "2025-12-21T17:50:04.283Z"
+  "lastUpdated": "2025-12-21T18:14:58.382Z"
 }
