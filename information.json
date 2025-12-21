@@ -113,7 +113,7 @@
   "ceilingSales": [],
   "newCustomers": [],
   "expenses": [],
-  "initialBalance": 10000,
+  "initialBalance": 20000,
   "adjustments": [
     {
       "type": "sale",
@@ -158,9 +158,18 @@
       "amount": -10000,
       "date": "2025-12-21T18:31:57.003Z",
       "description": "Payment reversed for sale #1 - Modern TV Unit"
+    },
+    {
+      "type": "balance_adjustment",
+      "amount": 10000,
+      "date": "2025-12-21T18:43:29.971Z",
+      "reason": "initial",
+      "notes": "",
+      "oldBalance": 10000,
+      "newBalance": 20000
     }
   ],
   "totalReceiptsGenerated": 2,
   "totalRevenue": 45065,
-  "lastUpdated": "2025-12-21T18:36:47.546Z"
+  "lastUpdated": "2025-12-21T18:43:29.971Z"
 }
