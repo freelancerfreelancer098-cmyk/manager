@@ -141,7 +141,32 @@
       "dateAdded": "2025-12-22"
     }
   ],
-  "ceilingSales": [],
+  "ceilingSales": [
+    {
+      "id": 1,
+      "ceilingId": 1,
+      "productName": "False Ceiling",
+      "designName": "Chinioti",
+      "designCode": "4589",
+      "area": 224,
+      "rate": 65,
+      "totalAmount": 14560,
+      "advancePaid": 5000,
+      "customerName": "Subhan",
+      "customerPhone": "0309651423",
+      "customerAddress": "W blocknew satellite town",
+      "paymentMethod": "online",
+      "bankName": "Jazz cash",
+      "accountNumber": "0303278945",
+      "accountHolder": "Subhan",
+      "orderStatus": "pending",
+      "serviceType": "gypsum ceiling",
+      "material": "gypsum board",
+      "description": "Mirza gee interior",
+      "notes": "Mirza gee products",
+      "saleDate": "2025-12-22"
+    }
+  ],
   "newCustomers": [
     {
       "id": 1,
@@ -157,7 +182,7 @@
     }
   ],
   "expenses": [],
-  "initialBalance": 20000,
+  "initialBalance": 25000,
   "adjustments": [
     {
       "type": "sale",
@@ -238,9 +263,16 @@
       "amount": 10000,
       "date": "2025-12-21T20:34:30.164Z",
       "description": "Payment received for sale #1 - Modern TV Unit"
+    },
+    {
+      "type": "ceiling_sale",
+      "amount": 5000,
+      "date": "2025-12-22T02:15:21.639Z",
+      "description": "Ceiling sale: False Ceiling to Subhan",
+      "saleId": 1
     }
   ],
   "totalReceiptsGenerated": 8,
-  "totalRevenue": 45065,
-  "lastUpdated": "2025-12-22T02:13:45.225Z"
+  "totalRevenue": 59625,
+  "lastUpdated": "2025-12-22T02:15:21.640Z"
 }
