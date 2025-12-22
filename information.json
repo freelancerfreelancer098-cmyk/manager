@@ -111,9 +111,22 @@
   ],
   "ceilings": [],
   "ceilingSales": [],
-  "newCustomers": [],
+  "newCustomers": [
+    {
+      "id": 1,
+      "name": "Ali",
+      "phone": "03086006321",
+      "address": "Lahore Pakistan",
+      "productInterested": "Wallpaper",
+      "designPreference": "White",
+      "paymentMethod": "N/A",
+      "notes": "Mirza gee interior",
+      "dateAdded": "2025-12-22",
+      "status": "new"
+    }
+  ],
   "expenses": [],
-  "initialBalance": 10000,
+  "initialBalance": 20000,
   "adjustments": [
     {
       "type": "sale",
@@ -194,18 +207,9 @@
       "amount": 10000,
       "date": "2025-12-21T20:34:30.164Z",
       "description": "Payment received for sale #1 - Modern TV Unit"
-    },
-    {
-      "type": "balance_adjustment",
-      "amount": -10000,
-      "date": "2025-12-22T01:52:00.373Z",
-      "reason": "initial",
-      "notes": "",
-      "oldBalance": 20000,
-      "newBalance": 10000
     }
   ],
   "totalReceiptsGenerated": 8,
   "totalRevenue": 45065,
-  "lastUpdated": "2025-12-22T01:52:00.374Z"
+  "lastUpdated": "2025-12-22T01:55:12.479Z"
 }
