@@ -124,6 +124,21 @@
       "material": "gypsum board",
       "description": "Mirza gee interior",
       "dateAdded": "2025-12-22"
+    },
+    {
+      "id": 2,
+      "productName": "Room ceiling",
+      "designName": "Simple",
+      "designCode": "58032",
+      "height": 16,
+      "width": 14,
+      "area": "224.00",
+      "rate": 10000,
+      "totalPrice": 2240000,
+      "serviceType": "false ceiling",
+      "material": "pop",
+      "description": "Mirza gee products",
+      "dateAdded": "2025-12-22"
     }
   ],
   "ceilingSales": [],
@@ -227,5 +242,5 @@
   ],
   "totalReceiptsGenerated": 8,
   "totalRevenue": 45065,
-  "lastUpdated": "2025-12-22T02:06:12.757Z"
+  "lastUpdated": "2025-12-22T02:13:45.225Z"
 }
