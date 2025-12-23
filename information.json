@@ -41,7 +41,7 @@
       "customerName": "1",
       "customerPhone": "1",
       "customerAddress": "1",
-      "advancePaid": 10000,
+      "advancePaid": 1000,
       "totalPrice": 45000,
       "paymentMethod": "cash",
       "bankName": "",
@@ -52,7 +52,7 @@
       "deliveryStatus": "pending",
       "startDate": "2025-12-23",
       "endDate": "",
-      "notes": "1",
+      "notes": "11",
       "saleDate": "2025-12-23"
     }
   ],
@@ -158,7 +158,7 @@
   ],
   "expenses": [],
   "projects": [],
-  "initialBalance": 24000,
+  "initialBalance": 15000,
   "adjustments": [
     {
       "type": "sale",
@@ -261,13 +261,13 @@
     },
     {
       "type": "sale",
-      "amount": 10000,
-      "date": "2025-12-23T14:34:43.948Z",
+      "amount": 1000,
+      "date": "2025-12-23T14:35:41.812Z",
       "description": "Sale of Modern TV Unit to 1",
       "saleId": 1
     }
   ],
   "totalReceiptsGenerated": 9,
   "totalRevenue": 59560,
-  "lastUpdated": "2025-12-23T14:34:43.948Z"
+  "lastUpdated": "2025-12-23T14:35:41.812Z"
 }
