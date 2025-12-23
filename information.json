@@ -145,7 +145,7 @@
   ],
   "expenses": [],
   "projects": [],
-  "initialBalance": 16000,
+  "initialBalance": 1600,
   "adjustments": [
     {
       "type": "sale",
@@ -258,9 +258,18 @@
       "amount": 1000,
       "date": "2025-12-23T14:55:28.543Z",
       "description": "Payment received for sale #1 - Modern TV Unit"
+    },
+    {
+      "type": "balance_adjustment",
+      "amount": -14400,
+      "date": "2025-12-23T15:22:18.670Z",
+      "reason": "initial",
+      "notes": "",
+      "previousBalance": 16000,
+      "newBalance": 1600
     }
   ],
   "totalReceiptsGenerated": 10,
   "totalRevenue": 59560,
-  "lastUpdated": "2025-12-23T15:20:31.644Z"
+  "lastUpdated": "2025-12-23T15:22:18.670Z"
 }
