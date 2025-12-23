@@ -5,7 +5,7 @@
       "name": "Modern TV Unit",
       "company": "WoodCraft",
       "price": 45000,
-      "stock": 4,
+      "stock": 5,
       "designs": "Design-01",
       "designCode": "D001",
       "category": "tv",
@@ -29,33 +29,7 @@
       "piecesInBundle": null
     }
   ],
-  "sales": [
-    {
-      "id": 1,
-      "productId": 1,
-      "productName": "Modern TV Unit",
-      "productPrice": 45000,
-      "quantity": 1,
-      "designName": "1",
-      "designCode": "11",
-      "customerName": "1",
-      "customerPhone": "1",
-      "customerAddress": "1",
-      "advancePaid": 10000,
-      "totalPrice": 45000,
-      "paymentMethod": "cash",
-      "bankName": "",
-      "accountNumber": "",
-      "accountHolder": "",
-      "orderStatus": "completed",
-      "paymentStatus": "completed",
-      "deliveryStatus": "delivered",
-      "startDate": "2025-12-21",
-      "endDate": "",
-      "notes": "11",
-      "saleDate": "2025-12-21"
-    }
-  ],
+  "sales": [],
   "customers": [
     {
       "id": 1,
@@ -158,7 +132,7 @@
   ],
   "expenses": [],
   "projects": [],
-  "initialBalance": 24000,
+  "initialBalance": 14000,
   "adjustments": [
     {
       "type": "sale",
@@ -252,9 +226,15 @@
       "amount": -1000,
       "date": "2025-12-23T14:26:07.593Z",
       "description": "Sale #2 deleted - gypsim ceiling to irfan"
+    },
+    {
+      "type": "sale_deletion",
+      "amount": -10000,
+      "date": "2025-12-23T14:26:15.329Z",
+      "description": "Sale #1 deleted - Modern TV Unit to 1"
     }
   ],
   "totalReceiptsGenerated": 9,
-  "totalRevenue": 59560,
-  "lastUpdated": "2025-12-23T14:26:07.593Z"
+  "totalRevenue": 14560,
+  "lastUpdated": "2025-12-23T14:26:15.329Z"
 }
