@@ -5,7 +5,7 @@
       "name": "Modern TV Unit",
       "company": "WoodCraft",
       "price": 45000,
-      "stock": 5,
+      "stock": 4,
       "designs": "Design-01",
       "designCode": "D001",
       "category": "tv",
@@ -29,7 +29,33 @@
       "piecesInBundle": null
     }
   ],
-  "sales": [],
+  "sales": [
+    {
+      "id": 1,
+      "productId": 1,
+      "productName": "Modern TV Unit",
+      "productPrice": 45000,
+      "quantity": 1,
+      "designName": "1",
+      "designCode": "1",
+      "customerName": "1",
+      "customerPhone": "1",
+      "customerAddress": "1",
+      "advancePaid": 10000,
+      "totalPrice": 45000,
+      "paymentMethod": "cash",
+      "bankName": "",
+      "accountNumber": "",
+      "accountHolder": "",
+      "orderStatus": "pending",
+      "paymentStatus": "pending",
+      "deliveryStatus": "pending",
+      "startDate": "2025-12-23",
+      "endDate": "",
+      "notes": "1",
+      "saleDate": "2025-12-23"
+    }
+  ],
   "customers": [
     {
       "id": 1,
@@ -132,7 +158,7 @@
   ],
   "expenses": [],
   "projects": [],
-  "initialBalance": 14000,
+  "initialBalance": 24000,
   "adjustments": [
     {
       "type": "sale",
@@ -232,9 +258,16 @@
       "amount": -10000,
       "date": "2025-12-23T14:26:15.329Z",
       "description": "Sale #1 deleted - Modern TV Unit to 1"
+    },
+    {
+      "type": "sale",
+      "amount": 10000,
+      "date": "2025-12-23T14:34:43.948Z",
+      "description": "Sale of Modern TV Unit to 1",
+      "saleId": 1
     }
   ],
   "totalReceiptsGenerated": 9,
-  "totalRevenue": 14560,
-  "lastUpdated": "2025-12-23T14:26:15.329Z"
+  "totalRevenue": 59560,
+  "lastUpdated": "2025-12-23T14:34:43.948Z"
 }
