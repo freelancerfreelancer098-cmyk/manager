@@ -182,6 +182,7 @@
     }
   ],
   "expenses": [],
+  "projects": [],
   "initialBalance": 25000,
   "adjustments": [
     {
@@ -272,7 +273,7 @@
       "saleId": 1
     }
   ],
-  "totalReceiptsGenerated": 9,
+  "totalReceiptsGenerated": 10,
   "totalRevenue": 59625,
-  "lastUpdated": "2025-12-22T02:23:58.104Z"
+  "lastUpdated": "2025-12-23T14:24:51.494Z"
 }
