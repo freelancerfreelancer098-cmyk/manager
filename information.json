@@ -56,20 +56,7 @@
       "saleDate": "2025-12-23"
     }
   ],
-  "customers": [
-    {
-      "id": 1,
-      "name": "zain",
-      "phone": "0340064321",
-      "address": "lahore road",
-      "email": "N/A",
-      "type": "wholesale",
-      "notes": "mirxz gee",
-      "dateAdded": "2025-12-21",
-      "totalPurchases": 0,
-      "totalSpent": 0
-    }
-  ],
+  "customers": [],
   "workers": [
     {
       "id": 1,
@@ -275,5 +262,5 @@
   ],
   "totalReceiptsGenerated": 10,
   "totalRevenue": 59560,
-  "lastUpdated": "2025-12-23T14:55:48.593Z"
+  "lastUpdated": "2025-12-23T15:20:31.644Z"
 }
