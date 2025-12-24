@@ -34,7 +34,7 @@
       "bankName": "Easypaisa",
       "accountNumber": "03086009321",
       "accountHolder": "Saad Mirza",
-      "orderStatus": "pending",
+      "orderStatus": "completed",
       "paymentStatus": "completed",
       "deliveryStatus": "delivered",
       "startDate": "2025-12-24",
@@ -242,5 +242,5 @@
   ],
   "totalReceiptsGenerated": 15,
   "totalRevenue": 24560,
-  "lastUpdated": "2025-12-24T03:24:56.699Z"
+  "lastUpdated": "2025-12-24T03:25:16.212Z"
 }
