@@ -75,7 +75,7 @@
       "accountNumber": "03086009321",
       "accountHolder": "Saad",
       "orderStatus": "pending",
-      "paymentStatus": "pending",
+      "paymentStatus": "completed",
       "deliveryStatus": "pending",
       "startDate": "2025-12-24",
       "endDate": "",
@@ -129,7 +129,7 @@
   ],
   "expenses": [],
   "projects": [],
-  "initialBalance": 16400,
+  "initialBalance": 17800,
   "adjustments": [
     {
       "type": "sale",
@@ -334,9 +334,22 @@
       "date": "2025-12-24T15:17:18.693Z",
       "description": "Receipt generated for sale #2",
       "receiptNo": "MG-SALE-2-3518"
+    },
+    {
+      "type": "receipt_generated",
+      "amount": 0,
+      "date": "2025-07-23T21:14:58.445Z",
+      "description": "Receipt generated for sale #2",
+      "receiptNo": "MG-SALE-2-1564"
+    },
+    {
+      "type": "payment_received",
+      "amount": 1400,
+      "date": "2025-07-23T21:18:56.753Z",
+      "description": "Payment received for sale #2 - Wall panel 10 inch"
     }
   ],
   "totalReceiptsGenerated": 26,
   "totalRevenue": 128360,
-  "lastUpdated": "2025-07-23T21:14:56.646Z"
+  "lastUpdated": "2025-07-23T21:18:56.753Z"
 }
