@@ -5,7 +5,7 @@
       "name": "Wall Paper",
       "company": "Shaheen",
       "price": 10000,
-      "stock": 100,
+      "stock": 101,
       "designs": "flower",
       "designCode": "2456",
       "category": "bedroom",
@@ -16,33 +16,7 @@
       "piecesInBundle": 1
     }
   ],
-  "sales": [
-    {
-      "id": 1,
-      "productId": 1,
-      "productName": "Modern TV Unit",
-      "productPrice": 45000,
-      "quantity": 1,
-      "designName": "1",
-      "designCode": "1",
-      "customerName": "1",
-      "customerPhone": "1",
-      "customerAddress": "1",
-      "advancePaid": 1000,
-      "totalPrice": 45000,
-      "paymentMethod": "cash",
-      "bankName": "",
-      "accountNumber": "",
-      "accountHolder": "",
-      "orderStatus": "completed",
-      "paymentStatus": "completed",
-      "deliveryStatus": "delivered",
-      "startDate": "2025-12-23",
-      "endDate": "",
-      "notes": "11",
-      "saleDate": "2025-12-23"
-    }
-  ],
+  "sales": [],
   "customers": [],
   "workers": [],
   "ceilings": [],
@@ -88,7 +62,7 @@
   ],
   "expenses": [],
   "projects": [],
-  "initialBalance": 1200,
+  "initialBalance": 200,
   "adjustments": [
     {
       "type": "sale",
@@ -219,9 +193,15 @@
       "notes": "",
       "previousBalance": 1600,
       "newBalance": 1200
+    },
+    {
+      "type": "sale_deletion",
+      "amount": -1000,
+      "date": "2025-12-24T03:16:44.846Z",
+      "description": "Sale #1 deleted - Modern TV Unit to 1"
     }
   ],
   "totalReceiptsGenerated": 12,
-  "totalRevenue": 59560,
-  "lastUpdated": "2025-12-24T03:15:32.581Z"
+  "totalRevenue": 14560,
+  "lastUpdated": "2025-12-24T03:16:44.846Z"
 }
