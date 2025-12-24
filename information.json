@@ -35,7 +35,7 @@
       "accountNumber": "",
       "accountHolder": "",
       "orderStatus": "completed",
-      "paymentStatus": "pending",
+      "paymentStatus": "completed",
       "deliveryStatus": "pending",
       "startDate": "2025-12-24",
       "endDate": "",
@@ -89,7 +89,7 @@
   ],
   "expenses": [],
   "projects": [],
-  "initialBalance": 10000,
+  "initialBalance": 15000,
   "adjustments": [
     {
       "type": "sale",
@@ -267,9 +267,15 @@
       "date": "2025-12-24T13:24:22.084Z",
       "description": "Sale of Wall Paper to 1",
       "saleId": 1
+    },
+    {
+      "type": "payment_received",
+      "amount": 5000,
+      "date": "2025-12-24T13:25:01.535Z",
+      "description": "Payment received for sale #1 - Wall Paper"
     }
   ],
   "totalReceiptsGenerated": 20,
   "totalRevenue": 124560,
-  "lastUpdated": "2025-12-24T13:24:38.983Z"
+  "lastUpdated": "2025-12-24T13:25:01.535Z"
 }
