@@ -1,5 +1,21 @@
 {
-  "products": [],
+  "products": [
+    {
+      "id": 1,
+      "name": "Wall Paper",
+      "company": "Shaheen",
+      "price": 10000,
+      "stock": 100,
+      "designs": "flower",
+      "designCode": "2456",
+      "category": "bedroom",
+      "description": "N/A",
+      "dateAdded": "2025-12-24",
+      "priceType": "bundle",
+      "bundlePrice": 10000,
+      "piecesInBundle": 1
+    }
+  ],
   "sales": [
     {
       "id": 1,
@@ -207,5 +223,5 @@
   ],
   "totalReceiptsGenerated": 12,
   "totalRevenue": 59560,
-  "lastUpdated": "2025-12-24T02:48:39.439Z"
+  "lastUpdated": "2025-12-24T03:15:32.581Z"
 }
