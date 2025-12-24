@@ -85,7 +85,8 @@
       "material": "gypsum board",
       "description": "Mirza gee interior",
       "notes": "Mirza gee products",
-      "saleDate": "2025-12-22"
+      "saleDate": "2025-12-22",
+      "paymentStatus": "completed"
     }
   ],
   "newCustomers": [
@@ -119,7 +120,7 @@
       "dateAdded": "2025-12-24"
     }
   ],
-  "initialBalance": 10200,
+  "initialBalance": 15200,
   "adjustments": [
     {
       "type": "sale",
@@ -269,9 +270,15 @@
       "amount": 5000,
       "date": "2025-12-24T03:23:29.890Z",
       "description": "Payment received for sale #2 - Wall Paper"
+    },
+    {
+      "type": "ceiling_payment_received",
+      "amount": 5000,
+      "date": "2025-12-24T03:37:12.839Z",
+      "description": "Payment received for ceiling sale #1"
     }
   ],
   "totalReceiptsGenerated": 17,
   "totalRevenue": 24560,
-  "lastUpdated": "2025-12-24T03:36:27.604Z"
+  "lastUpdated": "2025-12-24T03:37:12.839Z"
 }
