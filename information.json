@@ -1,19 +1,6 @@
 {
   "products": [
     {
-      "id": 1,
-      "name": "Modern TV Unit",
-      "company": "WoodCraft",
-      "price": 45000,
-      "stock": 4,
-      "designs": "Design-01",
-      "designCode": "D001",
-      "category": "tv",
-      "description": "Modern TV unit with LED lighting",
-      "dateAdded": "2025-12-21",
-      "priceType": "single"
-    },
-    {
       "id": 2,
       "name": "gypsim ceiling",
       "company": "2467",
@@ -280,5 +267,5 @@
   ],
   "totalReceiptsGenerated": 10,
   "totalRevenue": 59560,
-  "lastUpdated": "2025-12-23T18:56:54.546Z"
+  "lastUpdated": "2025-12-24T02:46:39.560Z"
 }
