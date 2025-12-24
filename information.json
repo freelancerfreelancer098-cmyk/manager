@@ -20,7 +20,7 @@
       "name": "Wall panel 10 inch",
       "company": "Akbari",
       "price": 3800,
-      "stock": 100,
+      "stock": 99,
       "designs": "white",
       "designCode": "8907",
       "category": "bedroom",
@@ -55,6 +55,31 @@
       "startDate": "2025-12-24",
       "endDate": "",
       "notes": "1",
+      "saleDate": "2025-12-24"
+    },
+    {
+      "id": 2,
+      "productId": 2,
+      "productName": "Wall panel 10 inch",
+      "productPrice": 3800,
+      "quantity": 1,
+      "designName": "white",
+      "designCode": "8907",
+      "customerName": "Saad",
+      "customerPhone": "03086009321",
+      "customerAddress": "Lahore Road Prime Valley",
+      "advancePaid": 1400,
+      "totalPrice": 3800,
+      "paymentMethod": "online",
+      "bankName": "Meezan bank",
+      "accountNumber": "03086009321",
+      "accountHolder": "Saad",
+      "orderStatus": "pending",
+      "paymentStatus": "pending",
+      "deliveryStatus": "pending",
+      "startDate": "2025-12-24",
+      "endDate": "",
+      "notes": "mirza gee interior",
       "saleDate": "2025-12-24"
     }
   ],
@@ -104,7 +129,7 @@
   ],
   "expenses": [],
   "projects": [],
-  "initialBalance": 15000,
+  "initialBalance": 16400,
   "adjustments": [
     {
       "type": "sale",
@@ -288,9 +313,16 @@
       "amount": 5000,
       "date": "2025-12-24T13:25:01.535Z",
       "description": "Payment received for sale #1 - Wall Paper"
+    },
+    {
+      "type": "sale",
+      "amount": 1400,
+      "date": "2025-12-24T15:11:10.403Z",
+      "description": "Sale of Wall panel 10 inch to Saad",
+      "saleId": 2
     }
   ],
   "totalReceiptsGenerated": 22,
-  "totalRevenue": 124560,
-  "lastUpdated": "2025-12-24T15:07:50.604Z"
+  "totalRevenue": 128360,
+  "lastUpdated": "2025-12-24T15:11:10.403Z"
 }
