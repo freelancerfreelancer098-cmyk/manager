@@ -31,21 +31,6 @@
   "workers": [],
   "ceilings": [
     {
-      "id": 1,
-      "productName": "False Ceiling",
-      "designName": "Chinioti",
-      "designCode": "4589",
-      "height": 16,
-      "width": 14,
-      "area": "224.00",
-      "rate": 65,
-      "totalPrice": 14560,
-      "serviceType": "gypsum ceiling",
-      "material": "gypsum board",
-      "description": "Mirza gee interior",
-      "dateAdded": "2025-12-22"
-    },
-    {
       "id": 2,
       "productName": "Room ceiling",
       "designName": "Simple",
@@ -238,5 +223,5 @@
   ],
   "totalReceiptsGenerated": 10,
   "totalRevenue": 59560,
-  "lastUpdated": "2025-12-24T02:47:03.168Z"
+  "lastUpdated": "2025-12-24T02:47:33.706Z"
 }
