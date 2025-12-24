@@ -5,7 +5,7 @@
       "name": "Wall Paper",
       "company": "Shaheen",
       "price": 10000,
-      "stock": 101,
+      "stock": 90,
       "designs": "flower",
       "designCode": "2456",
       "category": "bedroom",
@@ -16,7 +16,33 @@
       "piecesInBundle": 1
     }
   ],
-  "sales": [],
+  "sales": [
+    {
+      "id": 1,
+      "productId": 1,
+      "productName": "Wall Paper",
+      "productPrice": 10000,
+      "quantity": 11,
+      "designName": "1",
+      "designCode": "1",
+      "customerName": "1",
+      "customerPhone": "1",
+      "customerAddress": "1",
+      "advancePaid": 5000,
+      "totalPrice": 110000,
+      "paymentMethod": "cash",
+      "bankName": "",
+      "accountNumber": "",
+      "accountHolder": "",
+      "orderStatus": "pending",
+      "paymentStatus": "pending",
+      "deliveryStatus": "pending",
+      "startDate": "2025-12-24",
+      "endDate": "",
+      "notes": "1",
+      "saleDate": "2025-12-24"
+    }
+  ],
   "customers": [],
   "workers": [],
   "ceilings": [],
@@ -63,7 +89,7 @@
   ],
   "expenses": [],
   "projects": [],
-  "initialBalance": 5000,
+  "initialBalance": 10000,
   "adjustments": [
     {
       "type": "sale",
@@ -234,9 +260,16 @@
       "amount": -5000,
       "date": "2025-12-24T05:19:54.173Z",
       "description": "Sale #2 deleted - Wall Paper to Saad"
+    },
+    {
+      "type": "sale",
+      "amount": 5000,
+      "date": "2025-12-24T13:24:22.084Z",
+      "description": "Sale of Wall Paper to 1",
+      "saleId": 1
     }
   ],
   "totalReceiptsGenerated": 20,
-  "totalRevenue": 14560,
-  "lastUpdated": "2025-12-24T05:20:46.516Z"
+  "totalRevenue": 124560,
+  "lastUpdated": "2025-12-24T13:24:22.085Z"
 }
