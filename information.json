@@ -44,7 +44,23 @@
     }
   ],
   "customers": [],
-  "workers": [],
+  "workers": [
+    {
+      "id": 1,
+      "name": "zahid",
+      "phone": "03008795432",
+      "address": "iqbal cooony",
+      "skills": "panel",
+      "experience": 3,
+      "dailyIncome": 1000,
+      "perFootRate": 49,
+      "notes": "mirza gee workers",
+      "dateAdded": "2025-12-24",
+      "status": "active",
+      "totalProjects": 0,
+      "totalEarnings": 0
+    }
+  ],
   "ceilings": [],
   "ceilingSales": [
     {
@@ -242,5 +258,5 @@
   ],
   "totalReceiptsGenerated": 17,
   "totalRevenue": 24560,
-  "lastUpdated": "2025-12-24T03:32:39.279Z"
+  "lastUpdated": "2025-12-24T03:34:50.265Z"
 }
