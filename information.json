@@ -36,7 +36,7 @@
       "accountHolder": "Saad Mirza",
       "orderStatus": "pending",
       "paymentStatus": "completed",
-      "deliveryStatus": "pending",
+      "deliveryStatus": "delivered",
       "startDate": "2025-12-24",
       "endDate": "",
       "notes": "Mirza Gee Products",
@@ -242,5 +242,5 @@
   ],
   "totalReceiptsGenerated": 13,
   "totalRevenue": 24560,
-  "lastUpdated": "2025-12-24T03:23:29.890Z"
+  "lastUpdated": "2025-12-24T03:23:46.782Z"
 }
