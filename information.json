@@ -84,7 +84,23 @@
     }
   ],
   "customers": [],
-  "workers": [],
+  "workers": [
+    {
+      "id": 1,
+      "name": "ZAHID",
+      "phone": "030860009321",
+      "address": "SHAMSEER TOWN",
+      "skills": "wall paper",
+      "experience": 3,
+      "dailyIncome": 2500,
+      "perFootRate": 100,
+      "notes": "mirza gee workers",
+      "dateAdded": "2025-07-23",
+      "status": "active",
+      "totalProjects": 0,
+      "totalEarnings": 0
+    }
+  ],
   "ceilings": [],
   "ceilingSales": [
     {
@@ -368,9 +384,16 @@
       "date": "2025-07-23T21:23:12.884Z",
       "description": "Receipt generated for sale #2",
       "receiptNo": "MG-SALE-2-7374"
+    },
+    {
+      "type": "receipt_generated",
+      "amount": 0,
+      "date": "2025-07-23T21:25:33.074Z",
+      "description": "Receipt generated for sale #2",
+      "receiptNo": "MG-SALE-2-7625"
     }
   ],
   "totalReceiptsGenerated": 30,
   "totalRevenue": 128360,
-  "lastUpdated": "2025-07-23T21:25:31.742Z"
+  "lastUpdated": "2025-07-23T21:29:00.362Z"
 }
