@@ -80,7 +80,7 @@
       "bankName": "Jazz cash",
       "accountNumber": "0303278945",
       "accountHolder": "Subhan",
-      "orderStatus": "pending",
+      "orderStatus": "completed",
       "serviceType": "gypsum ceiling",
       "material": "gypsum board",
       "description": "Mirza gee interior",
@@ -280,5 +280,5 @@
   ],
   "totalReceiptsGenerated": 17,
   "totalRevenue": 24560,
-  "lastUpdated": "2025-12-24T03:37:12.839Z"
+  "lastUpdated": "2025-12-24T03:37:29.608Z"
 }
