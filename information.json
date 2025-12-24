@@ -144,7 +144,22 @@
     }
   ],
   "expenses": [],
-  "projects": [],
+  "projects": [
+    {
+      "id": 1,
+      "workerId": 1,
+      "workerName": "ZAHID",
+      "projectName": "Wall paper",
+      "startDate": "2025-07-23",
+      "endDate": "",
+      "customerName": "Saad",
+      "customerPhone": "03086009321",
+      "customerAddress": "shamseer town",
+      "status": "pending",
+      "description": "mirza gee interior",
+      "dateAdded": "2025-07-23"
+    }
+  ],
   "initialBalance": 17800,
   "adjustments": [
     {
@@ -395,5 +410,5 @@
   ],
   "totalReceiptsGenerated": 30,
   "totalRevenue": 128360,
-  "lastUpdated": "2025-07-23T21:29:00.362Z"
+  "lastUpdated": "2025-07-23T21:31:19.945Z"
 }
