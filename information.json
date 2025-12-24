@@ -5,7 +5,7 @@
       "name": "Wall Paper",
       "company": "Shaheen",
       "price": 10000,
-      "stock": 100,
+      "stock": 101,
       "designs": "flower",
       "designCode": "2456",
       "category": "bedroom",
@@ -16,33 +16,7 @@
       "piecesInBundle": 1
     }
   ],
-  "sales": [
-    {
-      "id": 2,
-      "productId": 1,
-      "productName": "Wall Paper",
-      "productPrice": 10000,
-      "quantity": 1,
-      "designName": "flower",
-      "designCode": "2456",
-      "customerName": "Saad",
-      "customerPhone": "03086009321",
-      "customerAddress": "Lahore Road Prime Valley",
-      "advancePaid": 5000,
-      "totalPrice": 10000,
-      "paymentMethod": "online",
-      "bankName": "Easypaisa",
-      "accountNumber": "03086009321",
-      "accountHolder": "Saad Mirza",
-      "orderStatus": "completed",
-      "paymentStatus": "completed",
-      "deliveryStatus": "delivered",
-      "startDate": "2025-12-24",
-      "endDate": "",
-      "notes": "Mirza Gee Products",
-      "saleDate": "2025-12-24"
-    }
-  ],
+  "sales": [],
   "customers": [],
   "workers": [
     {
@@ -120,7 +94,7 @@
       "dateAdded": "2025-12-24"
     }
   ],
-  "initialBalance": 10000,
+  "initialBalance": 5000,
   "adjustments": [
     {
       "type": "sale",
@@ -285,9 +259,15 @@
       "notes": "",
       "previousBalance": 15200,
       "newBalance": 10000
+    },
+    {
+      "type": "sale_deletion",
+      "amount": -5000,
+      "date": "2025-12-24T05:19:54.173Z",
+      "description": "Sale #2 deleted - Wall Paper to Saad"
     }
   ],
   "totalReceiptsGenerated": 20,
-  "totalRevenue": 24560,
-  "lastUpdated": "2025-12-24T05:19:23.708Z"
+  "totalRevenue": 14560,
+  "lastUpdated": "2025-12-24T05:19:54.174Z"
 }
