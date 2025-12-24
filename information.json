@@ -29,6 +29,21 @@
       "priceType": "bundle",
       "bundlePrice": 3800,
       "piecesInBundle": 1
+    },
+    {
+      "id": 3,
+      "name": "Gypsum Ceilling",
+      "company": "Mughal Ceilling",
+      "price": 80,
+      "stock": 100,
+      "designs": "far mika sofa",
+      "designCode": "1133",
+      "category": "bedroom",
+      "description": "mirza gee products",
+      "dateAdded": "2025-07-23",
+      "priceType": "bundle",
+      "bundlePrice": 800,
+      "piecesInBundle": 10
     }
   ],
   "sales": [
@@ -410,5 +425,5 @@
   ],
   "totalReceiptsGenerated": 33,
   "totalRevenue": 128360,
-  "lastUpdated": "2025-07-23T21:49:09.894Z"
+  "lastUpdated": "2025-07-23T21:59:23.022Z"
 }
