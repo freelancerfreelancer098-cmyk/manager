@@ -76,7 +76,7 @@
       "accountHolder": "Saad",
       "orderStatus": "completed",
       "paymentStatus": "completed",
-      "deliveryStatus": "pending",
+      "deliveryStatus": "delivered",
       "startDate": "2025-12-24",
       "endDate": "",
       "notes": "mirza gee interior",
@@ -354,9 +354,16 @@
       "date": "2025-07-23T21:20:17.827Z",
       "description": "Receipt generated for sale #2",
       "receiptNo": "MG-SALE-2-9657"
+    },
+    {
+      "type": "receipt_generated",
+      "amount": 0,
+      "date": "2025-07-23T21:22:08.888Z",
+      "description": "Receipt generated for sale #2",
+      "receiptNo": "MG-SALE-2-3747"
     }
   ],
   "totalReceiptsGenerated": 28,
   "totalRevenue": 128360,
-  "lastUpdated": "2025-07-23T21:22:07.660Z"
+  "lastUpdated": "2025-07-23T21:23:03.511Z"
 }
