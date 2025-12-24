@@ -29,23 +29,7 @@
   ],
   "customers": [],
   "workers": [],
-  "ceilings": [
-    {
-      "id": 2,
-      "productName": "Room ceiling",
-      "designName": "Simple",
-      "designCode": "58032",
-      "height": 16,
-      "width": 14,
-      "area": "224.00",
-      "rate": 10000,
-      "totalPrice": 2240000,
-      "serviceType": "false ceiling",
-      "material": "pop",
-      "description": "Mirza gee products",
-      "dateAdded": "2025-12-22"
-    }
-  ],
+  "ceilings": [],
   "ceilingSales": [
     {
       "id": 1,
@@ -223,5 +207,5 @@
   ],
   "totalReceiptsGenerated": 10,
   "totalRevenue": 59560,
-  "lastUpdated": "2025-12-24T02:47:33.706Z"
+  "lastUpdated": "2025-12-24T02:47:47.285Z"
 }
