@@ -361,9 +361,16 @@
       "date": "2025-07-23T21:22:08.888Z",
       "description": "Receipt generated for sale #2",
       "receiptNo": "MG-SALE-2-3747"
+    },
+    {
+      "type": "receipt_generated",
+      "amount": 0,
+      "date": "2025-07-23T21:23:12.884Z",
+      "description": "Receipt generated for sale #2",
+      "receiptNo": "MG-SALE-2-7374"
     }
   ],
-  "totalReceiptsGenerated": 29,
+  "totalReceiptsGenerated": 30,
   "totalRevenue": 128360,
-  "lastUpdated": "2025-07-23T21:23:11.614Z"
+  "lastUpdated": "2025-07-23T21:25:31.742Z"
 }
