@@ -74,7 +74,7 @@
       "bankName": "Meezan bank",
       "accountNumber": "03086009321",
       "accountHolder": "Saad",
-      "orderStatus": "pending",
+      "orderStatus": "completed",
       "paymentStatus": "completed",
       "deliveryStatus": "pending",
       "startDate": "2025-12-24",
@@ -347,9 +347,16 @@
       "amount": 1400,
       "date": "2025-07-23T21:18:56.753Z",
       "description": "Payment received for sale #2 - Wall panel 10 inch"
+    },
+    {
+      "type": "receipt_generated",
+      "amount": 0,
+      "date": "2025-07-23T21:20:17.827Z",
+      "description": "Receipt generated for sale #2",
+      "receiptNo": "MG-SALE-2-9657"
     }
   ],
   "totalReceiptsGenerated": 27,
   "totalRevenue": 128360,
-  "lastUpdated": "2025-07-23T21:20:16.373Z"
+  "lastUpdated": "2025-07-23T21:21:55.267Z"
 }
