@@ -34,7 +34,7 @@
       "bankName": "",
       "accountNumber": "",
       "accountHolder": "",
-      "orderStatus": "pending",
+      "orderStatus": "completed",
       "paymentStatus": "pending",
       "deliveryStatus": "pending",
       "startDate": "2025-12-24",
@@ -271,5 +271,5 @@
   ],
   "totalReceiptsGenerated": 20,
   "totalRevenue": 124560,
-  "lastUpdated": "2025-12-24T13:24:22.085Z"
+  "lastUpdated": "2025-12-24T13:24:38.983Z"
 }
