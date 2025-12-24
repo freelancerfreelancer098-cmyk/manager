@@ -1,21 +1,5 @@
 {
-  "products": [
-    {
-      "id": 2,
-      "name": "gypsim ceiling",
-      "company": "2467",
-      "price": 65,
-      "stock": 1000,
-      "designs": "akbari",
-      "designCode": "3893",
-      "category": "bedroom",
-      "description": "mirza g",
-      "dateAdded": "2025-12-21",
-      "priceType": "single",
-      "bundlePrice": null,
-      "piecesInBundle": null
-    }
-  ],
+  "products": [],
   "sales": [
     {
       "id": 1,
@@ -267,5 +251,5 @@
   ],
   "totalReceiptsGenerated": 10,
   "totalRevenue": 59560,
-  "lastUpdated": "2025-12-24T02:46:39.560Z"
+  "lastUpdated": "2025-12-24T02:46:45.514Z"
 }
