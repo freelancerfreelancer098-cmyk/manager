@@ -151,11 +151,11 @@
       "workerName": "ZAHID",
       "projectName": "Wall paper",
       "startDate": "2025-07-23",
-      "endDate": "",
+      "endDate": "2025-07-23",
       "customerName": "Saad",
       "customerPhone": "03086009321",
       "customerAddress": "shamseer town",
-      "status": "pending",
+      "status": "completed",
       "description": "mirza gee interior",
       "dateAdded": "2025-07-23"
     }
@@ -410,5 +410,5 @@
   ],
   "totalReceiptsGenerated": 30,
   "totalRevenue": 128360,
-  "lastUpdated": "2025-07-23T21:31:19.945Z"
+  "lastUpdated": "2025-07-23T21:32:11.161Z"
 }
