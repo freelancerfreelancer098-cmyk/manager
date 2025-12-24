@@ -120,7 +120,7 @@
       "dateAdded": "2025-12-24"
     }
   ],
-  "initialBalance": 15200,
+  "initialBalance": 10000,
   "adjustments": [
     {
       "type": "sale",
@@ -276,9 +276,18 @@
       "amount": 5000,
       "date": "2025-12-24T03:37:12.839Z",
       "description": "Payment received for ceiling sale #1"
+    },
+    {
+      "type": "balance_adjustment",
+      "amount": -5200,
+      "date": "2025-12-24T05:19:23.708Z",
+      "reason": "initial",
+      "notes": "",
+      "previousBalance": 15200,
+      "newBalance": 10000
     }
   ],
   "totalReceiptsGenerated": 20,
   "totalRevenue": 24560,
-  "lastUpdated": "2025-12-24T04:04:27.314Z"
+  "lastUpdated": "2025-12-24T05:19:23.708Z"
 }
