@@ -78,22 +78,7 @@
     }
   ],
   "expenses": [],
-  "projects": [
-    {
-      "id": 1,
-      "workerId": 1,
-      "workerName": "zahid",
-      "projectName": "wall paper",
-      "startDate": "2025-12-24",
-      "endDate": "2025-12-24",
-      "customerName": "Saad",
-      "customerPhone": "03086009321",
-      "customerAddress": "lahore road prime valley",
-      "status": "completed",
-      "description": "mirza gee products",
-      "dateAdded": "2025-12-24"
-    }
-  ],
+  "projects": [],
   "initialBalance": 5000,
   "adjustments": [
     {
@@ -269,5 +254,5 @@
   ],
   "totalReceiptsGenerated": 20,
   "totalRevenue": 14560,
-  "lastUpdated": "2025-12-24T05:19:54.174Z"
+  "lastUpdated": "2025-12-24T05:20:34.090Z"
 }
