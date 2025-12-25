@@ -49,7 +49,7 @@
       "id": 6,
       "name": "Gypsum Ceilling",
       "company": "Mughal Ceilling",
-      "price": 80,
+      "price": 90,
       "stock": 138,
       "designs": "silver dabbi silver",
       "designCode": "04",
@@ -770,5 +770,5 @@
   ],
   "totalReceiptsGenerated": 33,
   "totalRevenue": 128360,
-  "lastUpdated": "2025-07-24T14:08:28.576Z"
+  "lastUpdated": "2025-07-24T14:08:46.810Z"
 }
