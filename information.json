@@ -666,7 +666,7 @@
       "accountHolder": "",
       "orderStatus": "completed",
       "paymentStatus": "pending",
-      "deliveryStatus": "pending",
+      "deliveryStatus": "delivered",
       "startDate": "2025-12-25",
       "endDate": "",
       "notes": "",
@@ -1084,5 +1084,5 @@
   ],
   "totalReceiptsGenerated": 33,
   "totalRevenue": 1776,
-  "lastUpdated": "2025-12-25T11:16:34.011Z"
+  "lastUpdated": "2025-12-25T11:16:42.306Z"
 }
