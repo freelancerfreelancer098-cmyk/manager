@@ -739,6 +739,21 @@
       "status": "active",
       "totalProjects": 0,
       "totalEarnings": 0
+    },
+    {
+      "id": 2,
+      "name": "Zaheer",
+      "phone": "03254756586",
+      "address": "Shamseer Town Street no 2 House no 199",
+      "skills": "Wall Paper",
+      "experience": 10,
+      "dailyIncome": 2000,
+      "perFootRate": 0,
+      "notes": "Mirza Gee Interior Workers Detail",
+      "dateAdded": "2025-07-24",
+      "status": "active",
+      "totalProjects": 0,
+      "totalEarnings": 0
     }
   ],
   "ceilings": [],
@@ -1092,9 +1107,16 @@
       "amount": 50,
       "date": "2025-07-24T20:01:58.195Z",
       "description": "Payment received for sale #3 - Main tee"
+    },
+    {
+      "type": "receipt_generated",
+      "amount": 0,
+      "date": "2025-07-24T20:02:44.953Z",
+      "description": "Receipt generated for sale #1",
+      "receiptNo": "MG-SALE-1-7253"
     }
   ],
   "totalReceiptsGenerated": 36,
   "totalRevenue": 1776,
-  "lastUpdated": "2025-07-24T20:02:35.516Z"
+  "lastUpdated": "2025-07-24T20:10:21.181Z"
 }
