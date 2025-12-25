@@ -374,6 +374,21 @@
       "priceType": "single",
       "bundlePrice": null,
       "piecesInBundle": null
+    },
+    {
+      "id": 28,
+      "name": "gypsum tile",
+      "company": "Mughal Ceilling",
+      "price": 240,
+      "stock": 74,
+      "designs": "frost white arish tile",
+      "designCode": "0400",
+      "category": "N/A",
+      "description": "mirza g products",
+      "dateAdded": "2025-07-24",
+      "priceType": "single",
+      "bundlePrice": null,
+      "piecesInBundle": null
     }
   ],
   "sales": [
@@ -755,5 +770,5 @@
   ],
   "totalReceiptsGenerated": 33,
   "totalRevenue": 128360,
-  "lastUpdated": "2025-07-24T14:00:41.640Z"
+  "lastUpdated": "2025-07-24T14:02:55.498Z"
 }
