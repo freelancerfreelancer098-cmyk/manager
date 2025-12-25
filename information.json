@@ -59,6 +59,21 @@
       "priceType": "single",
       "bundlePrice": null,
       "piecesInBundle": null
+    },
+    {
+      "id": 7,
+      "name": "Gypsum Ceilling",
+      "company": "Mughal Ceilling",
+      "price": 80,
+      "stock": 355,
+      "designs": "silver dabbi golden",
+      "designCode": "05",
+      "category": "N/A",
+      "description": "mirza g products",
+      "dateAdded": "2025-07-24",
+      "priceType": "single",
+      "bundlePrice": null,
+      "piecesInBundle": null
     }
   ],
   "sales": [
@@ -440,5 +455,5 @@
   ],
   "totalReceiptsGenerated": 33,
   "totalRevenue": 128360,
-  "lastUpdated": "2025-07-24T13:28:02.101Z"
+  "lastUpdated": "2025-07-24T13:29:42.489Z"
 }
