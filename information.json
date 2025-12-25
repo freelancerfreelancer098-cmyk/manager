@@ -244,7 +244,7 @@
       "id": 19,
       "name": "gymsim celling",
       "company": "Mughal Ceilling",
-      "price": 80,
+      "price": 90,
       "stock": 226,
       "designs": "black white circle",
       "designCode": "17",
@@ -770,5 +770,5 @@
   ],
   "totalReceiptsGenerated": 33,
   "totalRevenue": 128360,
-  "lastUpdated": "2025-07-24T14:05:05.391Z"
+  "lastUpdated": "2025-07-24T14:05:42.038Z"
 }
