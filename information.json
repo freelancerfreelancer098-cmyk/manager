@@ -470,7 +470,7 @@
       "name": "Main tee",
       "company": "Royal",
       "price": 204,
-      "stock": 5,
+      "stock": 4,
       "designs": "Main tee 15 kg",
       "designCode": "Z9 32 mm",
       "category": "N/A",
@@ -696,6 +696,31 @@
       "endDate": "",
       "notes": "",
       "saleDate": "2025-12-25"
+    },
+    {
+      "id": 3,
+      "productId": 34,
+      "productName": "Main tee",
+      "productPrice": 204,
+      "quantity": 1,
+      "designName": "MAIN TEE",
+      "designCode": "Z9",
+      "customerName": "Tariq",
+      "customerPhone": "000000000",
+      "customerAddress": "Xyzzz",
+      "advancePaid": 50,
+      "totalPrice": 204,
+      "paymentMethod": "cash",
+      "bankName": "",
+      "accountNumber": "",
+      "accountHolder": "",
+      "orderStatus": "completed",
+      "paymentStatus": "pending",
+      "deliveryStatus": "pending",
+      "startDate": "2025-12-25",
+      "endDate": "2025-12-25",
+      "notes": "",
+      "saleDate": "2025-12-25"
     }
   ],
   "customers": [],
@@ -749,7 +774,7 @@
       "dateAdded": "2025-07-23"
     }
   ],
-  "initialBalance": 50,
+  "initialBalance": 100,
   "adjustments": [
     {
       "type": "sale",
@@ -1036,9 +1061,16 @@
       "date": "2025-12-25T11:13:45.792Z",
       "description": "Sale of Main tee to Tariq",
       "saleId": 2
+    },
+    {
+      "type": "sale",
+      "amount": 50,
+      "date": "2025-12-25T11:15:33.792Z",
+      "description": "Sale of Main tee to Tariq",
+      "saleId": 3
     }
   ],
   "totalReceiptsGenerated": 33,
-  "totalRevenue": 1572,
-  "lastUpdated": "2025-12-25T11:13:45.792Z"
+  "totalRevenue": 1776,
+  "lastUpdated": "2025-12-25T11:15:33.793Z"
 }
