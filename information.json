@@ -359,6 +359,21 @@
       "priceType": "single",
       "bundlePrice": null,
       "piecesInBundle": null
+    },
+    {
+      "id": 27,
+      "name": "gypsum tile",
+      "company": "Mughal Ceilling",
+      "price": 125,
+      "stock": 3,
+      "designs": "bamboo white",
+      "designCode": "0200",
+      "category": "N/A",
+      "description": "mirza g products",
+      "dateAdded": "2025-07-24",
+      "priceType": "single",
+      "bundlePrice": null,
+      "piecesInBundle": null
     }
   ],
   "sales": [
@@ -740,5 +755,5 @@
   ],
   "totalReceiptsGenerated": 33,
   "totalRevenue": 128360,
-  "lastUpdated": "2025-07-24T13:59:43.771Z"
+  "lastUpdated": "2025-07-24T14:00:41.640Z"
 }
