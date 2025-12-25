@@ -389,6 +389,21 @@
       "priceType": "single",
       "bundlePrice": null,
       "piecesInBundle": null
+    },
+    {
+      "id": 29,
+      "name": "Main tee",
+      "company": "Royal",
+      "price": 222,
+      "stock": 4,
+      "designs": "main  tee",
+      "designCode": "Z 7",
+      "category": "loughn",
+      "description": "royal tee products",
+      "dateAdded": "2025-07-24",
+      "priceType": "bundle",
+      "bundlePrice": 5550,
+      "piecesInBundle": 25
     }
   ],
   "sales": [],
@@ -720,5 +735,5 @@
   ],
   "totalReceiptsGenerated": 33,
   "totalRevenue": 0,
-  "lastUpdated": "2025-07-24T15:11:30.825Z"
+  "lastUpdated": "2025-07-24T15:19:09.532Z"
 }
