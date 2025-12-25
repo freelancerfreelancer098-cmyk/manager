@@ -614,57 +614,11 @@
       "priceType": "single",
       "bundlePrice": null,
       "piecesInBundle": null
-    },
-    {
-      "id": 44,
-      "name": "Angel",
-      "company": "CKM",
-      "price": 70,
-      "stock": 120,
-      "designs": "Angel 6 kg",
-      "designCode": "Angel",
-      "category": "N/A",
-      "description": "N/A",
-      "dateAdded": "2025-07-24",
-      "priceType": "single",
-      "bundlePrice": null,
-      "piecesInBundle": null
-    },
-    {
-      "id": 45,
-      "name": "Angel",
-      "company": "CKM",
-      "price": 90,
-      "stock": 120,
-      "designs": "Angel 9 kg",
-      "designCode": "Angel",
-      "category": "N/A",
-      "description": "N/A",
-      "dateAdded": "2025-07-24",
-      "priceType": "single",
-      "bundlePrice": null,
-      "piecesInBundle": null
     }
   ],
   "sales": [],
   "customers": [],
-  "workers": [
-    {
-      "id": 1,
-      "name": "ZAHID",
-      "phone": "030860009321",
-      "address": "SHAMSEER TOWN",
-      "skills": "wall paper",
-      "experience": 3,
-      "dailyIncome": 2500,
-      "perFootRate": 100,
-      "notes": "mirza gee workers",
-      "dateAdded": "2025-07-23",
-      "status": "active",
-      "totalProjects": 0,
-      "totalEarnings": 0
-    }
-  ],
+  "workers": [],
   "ceilings": [],
   "ceilingSales": [],
   "newCustomers": [
@@ -975,5 +929,5 @@
   ],
   "totalReceiptsGenerated": 33,
   "totalRevenue": 0,
-  "lastUpdated": "2025-07-24T16:12:20.374Z"
+  "lastUpdated": "2025-12-25T10:41:51.126Z"
 }
