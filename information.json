@@ -726,21 +726,6 @@
   "customers": [],
   "workers": [
     {
-      "id": 1,
-      "name": "ZAHID",
-      "phone": "030860009321",
-      "address": "SHAMSEER TOWN",
-      "skills": "wall paper",
-      "experience": 3,
-      "dailyIncome": 2500,
-      "perFootRate": 100,
-      "notes": "mirza gee workers",
-      "dateAdded": "2025-07-23",
-      "status": "active",
-      "totalProjects": 0,
-      "totalEarnings": 0
-    },
-    {
       "id": 2,
       "name": "Zaheer",
       "phone": "03254756586",
@@ -1118,5 +1103,5 @@
   ],
   "totalReceiptsGenerated": 36,
   "totalRevenue": 1776,
-  "lastUpdated": "2025-07-24T20:10:21.181Z"
+  "lastUpdated": "2025-07-24T20:11:01.700Z"
 }
