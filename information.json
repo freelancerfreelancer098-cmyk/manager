@@ -200,7 +200,7 @@
       "name": "Gypsum Ceilling",
       "company": "Mughal Ceilling",
       "price": 90,
-      "stock": 148,
+      "stock": 133,
       "designs": "black bail",
       "designCode": "14",
       "category": "N/A",
@@ -646,7 +646,33 @@
       "piecesInBundle": null
     }
   ],
-  "sales": [],
+  "sales": [
+    {
+      "id": 1,
+      "productId": 16,
+      "productName": "Gypsum Ceilling",
+      "productPrice": 90,
+      "quantity": 15,
+      "designName": "Black bail",
+      "designCode": "14",
+      "customerName": "Tariq",
+      "customerPhone": "000000000",
+      "customerAddress": "Zxzzzz",
+      "advancePaid": 0,
+      "totalPrice": 1350,
+      "paymentMethod": "cash",
+      "bankName": "",
+      "accountNumber": "",
+      "accountHolder": "",
+      "orderStatus": "completed",
+      "paymentStatus": "pending",
+      "deliveryStatus": "pending",
+      "startDate": "2025-12-25",
+      "endDate": "",
+      "notes": "",
+      "saleDate": "2025-12-25"
+    }
+  ],
   "customers": [],
   "workers": [
     {
@@ -971,9 +997,16 @@
       "notes": "",
       "previousBalance": 6400,
       "newBalance": 0
+    },
+    {
+      "type": "sale",
+      "amount": 0,
+      "date": "2025-12-25T11:11:41.347Z",
+      "description": "Sale of Gypsum Ceilling to Tariq",
+      "saleId": 1
     }
   ],
   "totalReceiptsGenerated": 33,
-  "totalRevenue": 0,
-  "lastUpdated": "2025-07-24T16:15:29.323Z"
+  "totalRevenue": 1350,
+  "lastUpdated": "2025-12-25T11:11:41.347Z"
 }
