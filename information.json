@@ -299,6 +299,21 @@
       "priceType": "single",
       "bundlePrice": null,
       "piecesInBundle": null
+    },
+    {
+      "id": 23,
+      "name": "gypsum tile",
+      "company": "Mughal Ceilling",
+      "price": 80,
+      "stock": 200,
+      "designs": "white golden dabba",
+      "designCode": "21",
+      "category": "N/A",
+      "description": "mirza g products",
+      "dateAdded": "2025-07-24",
+      "priceType": "single",
+      "bundlePrice": null,
+      "piecesInBundle": null
     }
   ],
   "sales": [
@@ -680,5 +695,5 @@
   ],
   "totalReceiptsGenerated": 33,
   "totalRevenue": 128360,
-  "lastUpdated": "2025-07-24T13:53:32.607Z"
+  "lastUpdated": "2025-07-24T13:54:51.452Z"
 }
