@@ -434,6 +434,21 @@
       "priceType": "single",
       "bundlePrice": null,
       "piecesInBundle": null
+    },
+    {
+      "id": 32,
+      "name": "Main tee",
+      "company": "Royal",
+      "price": 37,
+      "stock": 92,
+      "designs": "cross 17.200",
+      "designCode": "Z 7 38 mm",
+      "category": "N/A",
+      "description": "N/A",
+      "dateAdded": "2025-07-24",
+      "priceType": "single",
+      "bundlePrice": null,
+      "piecesInBundle": null
     }
   ],
   "sales": [],
@@ -765,5 +780,5 @@
   ],
   "totalReceiptsGenerated": 33,
   "totalRevenue": 0,
-  "lastUpdated": "2025-07-24T15:30:15.855Z"
+  "lastUpdated": "2025-07-24T15:35:01.273Z"
 }
