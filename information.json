@@ -337,7 +337,7 @@
       "price": 80,
       "stock": 102,
       "designs": "white cross",
-      "designCode": "22",
+      "designCode": "23",
       "category": "N/A",
       "description": "mirza g products",
       "dateAdded": "2025-07-24",
@@ -720,5 +720,5 @@
   ],
   "totalReceiptsGenerated": 33,
   "totalRevenue": 0,
-  "lastUpdated": "2025-07-24T15:11:14.464Z"
+  "lastUpdated": "2025-07-24T15:11:30.825Z"
 }
