@@ -690,7 +690,7 @@
       "accountNumber": "",
       "accountHolder": "",
       "orderStatus": "completed",
-      "paymentStatus": "pending",
+      "paymentStatus": "completed",
       "deliveryStatus": "delivered",
       "startDate": "2025-12-25",
       "endDate": "",
@@ -774,7 +774,7 @@
       "dateAdded": "2025-07-23"
     }
   ],
-  "initialBalance": 100,
+  "initialBalance": 150,
   "adjustments": [
     {
       "type": "sale",
@@ -1068,9 +1068,15 @@
       "date": "2025-12-25T11:15:33.792Z",
       "description": "Sale of Main tee to Tariq",
       "saleId": 3
+    },
+    {
+      "type": "payment_received",
+      "amount": 50,
+      "date": "2025-12-25T11:16:03.292Z",
+      "description": "Payment received for sale #2 - Main tee"
     }
   ],
   "totalReceiptsGenerated": 33,
   "totalRevenue": 1776,
-  "lastUpdated": "2025-12-25T11:15:57.307Z"
+  "lastUpdated": "2025-12-25T11:16:03.292Z"
 }
