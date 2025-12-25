@@ -145,7 +145,7 @@
       "dateAdded": "2025-07-23"
     }
   ],
-  "initialBalance": 17800,
+  "initialBalance": 5000,
   "adjustments": [
     {
       "type": "sale",
@@ -391,9 +391,18 @@
       "date": "2025-07-23T21:25:33.074Z",
       "description": "Receipt generated for sale #2",
       "receiptNo": "MG-SALE-2-7625"
+    },
+    {
+      "type": "balance_adjustment",
+      "amount": -12800,
+      "date": "2025-07-24T13:18:27.275Z",
+      "reason": "initial",
+      "notes": "",
+      "previousBalance": 17800,
+      "newBalance": 5000
     }
   ],
   "totalReceiptsGenerated": 33,
   "totalRevenue": 128360,
-  "lastUpdated": "2025-07-24T13:00:03.842Z"
+  "lastUpdated": "2025-07-24T13:18:27.338Z"
 }
