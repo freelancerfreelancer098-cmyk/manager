@@ -396,7 +396,7 @@
       "company": "Royal",
       "price": 222,
       "stock": 4,
-      "designs": "38 mm  17.200 kg",
+      "designs": "ma  17.200 kg",
       "designCode": "Z7",
       "category": "loughn",
       "description": "royal tee products",
@@ -795,5 +795,5 @@
   ],
   "totalReceiptsGenerated": 33,
   "totalRevenue": 0,
-  "lastUpdated": "2025-07-24T15:36:08.592Z"
+  "lastUpdated": "2025-07-24T15:37:20.091Z"
 }
