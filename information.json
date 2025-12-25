@@ -759,6 +759,20 @@
       "status": "completed",
       "description": "mirza gee interior",
       "dateAdded": "2025-07-23"
+    },
+    {
+      "id": 2,
+      "workerId": 2,
+      "workerName": "Zaheer",
+      "projectName": "Wall paper 11 Roll",
+      "startDate": "2025-07-24",
+      "endDate": "",
+      "customerName": "Usman",
+      "customerPhone": "03004663006",
+      "customerAddress": "Bashir Colony Street No 7",
+      "status": "pending",
+      "description": "Wall Paper Project Of Mirza Gee Interior",
+      "dateAdded": "2025-07-24"
     }
   ],
   "initialBalance": 200,
@@ -1103,5 +1117,5 @@
   ],
   "totalReceiptsGenerated": 36,
   "totalRevenue": 1776,
-  "lastUpdated": "2025-07-24T20:11:01.700Z"
+  "lastUpdated": "2025-07-24T20:14:26.880Z"
 }
