@@ -416,31 +416,6 @@
       "endDate": "",
       "notes": "1",
       "saleDate": "2025-12-24"
-    },
-    {
-      "id": 2,
-      "productId": 2,
-      "productName": "Wall panel 10 inch",
-      "productPrice": 3800,
-      "quantity": 1,
-      "designName": "white",
-      "designCode": "8907",
-      "customerName": "Saad",
-      "customerPhone": "03086009321",
-      "customerAddress": "Lahore Road Prime Valley",
-      "advancePaid": 1400,
-      "totalPrice": 3800,
-      "paymentMethod": "online",
-      "bankName": "Meezan bank",
-      "accountNumber": "03086009321",
-      "accountHolder": "Saad",
-      "orderStatus": "completed",
-      "paymentStatus": "completed",
-      "deliveryStatus": "delivered",
-      "startDate": "2025-12-24",
-      "endDate": "",
-      "notes": "mirza gee interior",
-      "saleDate": "2025-12-24"
     }
   ],
   "customers": [],
@@ -520,7 +495,7 @@
       "dateAdded": "2025-07-23"
     }
   ],
-  "initialBalance": 17800,
+  "initialBalance": 16400,
   "adjustments": [
     {
       "type": "sale",
@@ -766,9 +741,15 @@
       "date": "2025-07-23T21:25:33.074Z",
       "description": "Receipt generated for sale #2",
       "receiptNo": "MG-SALE-2-7625"
+    },
+    {
+      "type": "sale_deletion",
+      "amount": -1400,
+      "date": "2025-07-24T14:10:58.671Z",
+      "description": "Sale #2 deleted - Wall panel 10 inch to Saad"
     }
   ],
   "totalReceiptsGenerated": 33,
-  "totalRevenue": 128360,
-  "lastUpdated": "2025-07-24T14:09:32.207Z"
+  "totalRevenue": 124560,
+  "lastUpdated": "2025-07-24T14:10:58.671Z"
 }
