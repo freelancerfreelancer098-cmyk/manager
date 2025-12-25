@@ -29,6 +29,21 @@
       "priceType": "single",
       "bundlePrice": null,
       "piecesInBundle": null
+    },
+    {
+      "id": 5,
+      "name": "Gypsum Ceilling",
+      "company": "Mughal Ceilling",
+      "price": 80,
+      "stock": 33,
+      "designs": "mehndi",
+      "designCode": "03",
+      "category": "bathroom",
+      "description": "mirza g products",
+      "dateAdded": "2025-07-24",
+      "priceType": "single",
+      "bundlePrice": null,
+      "piecesInBundle": null
     }
   ],
   "sales": [
@@ -410,5 +425,5 @@
   ],
   "totalReceiptsGenerated": 33,
   "totalRevenue": 128360,
-  "lastUpdated": "2025-07-24T13:21:04.964Z"
+  "lastUpdated": "2025-07-24T13:26:05.012Z"
 }
