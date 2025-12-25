@@ -411,33 +411,7 @@
     }
   ],
   "ceilings": [],
-  "ceilingSales": [
-    {
-      "id": 1,
-      "ceilingId": 1,
-      "productName": "False Ceiling",
-      "designName": "Chinioti",
-      "designCode": "4589",
-      "area": 224,
-      "rate": 65,
-      "totalAmount": 14560,
-      "advancePaid": 5000,
-      "customerName": "Subhan",
-      "customerPhone": "0309651423",
-      "customerAddress": "W blocknew satellite town",
-      "paymentMethod": "online",
-      "bankName": "Jazz cash",
-      "accountNumber": "0303278945",
-      "accountHolder": "Subhan",
-      "orderStatus": "completed",
-      "serviceType": "gypsum ceiling",
-      "material": "gypsum board",
-      "description": "Mirza gee interior",
-      "notes": "Mirza gee products",
-      "saleDate": "2025-12-22",
-      "paymentStatus": "completed"
-    }
-  ],
+  "ceilingSales": [],
   "newCustomers": [
     {
       "id": 1,
@@ -469,7 +443,7 @@
       "dateAdded": "2025-07-23"
     }
   ],
-  "initialBalance": 11400,
+  "initialBalance": 6400,
   "adjustments": [
     {
       "type": "sale",
@@ -727,9 +701,15 @@
       "amount": -5000,
       "date": "2025-07-24T14:11:07.794Z",
       "description": "Sale #1 deleted - Wall Paper to 1"
+    },
+    {
+      "type": "ceiling_sale_deletion",
+      "amount": -5000,
+      "date": "2025-07-24T14:12:16.333Z",
+      "description": "Ceiling sale #1 deleted"
     }
   ],
   "totalReceiptsGenerated": 33,
-  "totalRevenue": 14560,
-  "lastUpdated": "2025-07-24T14:11:07.794Z"
+  "totalRevenue": 0,
+  "lastUpdated": "2025-07-24T14:12:16.333Z"
 }
