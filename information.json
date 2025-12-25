@@ -274,7 +274,7 @@
       "id": 21,
       "name": "gypsum tile",
       "company": "Mughal Ceilling",
-      "price": 80,
+      "price": 90,
       "stock": 130,
       "designs": "white golden bail",
       "designCode": "19",
@@ -770,5 +770,5 @@
   ],
   "totalReceiptsGenerated": 33,
   "totalRevenue": 128360,
-  "lastUpdated": "2025-07-24T14:05:53.839Z"
+  "lastUpdated": "2025-07-24T14:06:07.539Z"
 }
