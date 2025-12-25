@@ -426,7 +426,7 @@
       "company": "Royal",
       "price": 37,
       "stock": 659,
-      "designs": "cross 14.200 kg",
+      "designs": "cross 32 mm 14.200 kg",
       "designCode": "cr46",
       "category": "N/A",
       "description": "royal products",
@@ -765,5 +765,5 @@
   ],
   "totalReceiptsGenerated": 33,
   "totalRevenue": 0,
-  "lastUpdated": "2025-07-24T15:29:55.248Z"
+  "lastUpdated": "2025-07-24T15:30:15.855Z"
 }
