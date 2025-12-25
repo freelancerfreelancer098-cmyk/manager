@@ -209,6 +209,21 @@
       "priceType": "single",
       "bundlePrice": null,
       "piecesInBundle": null
+    },
+    {
+      "id": 17,
+      "name": "Gypsum Ceilling",
+      "company": "Mughal Ceilling",
+      "price": 80,
+      "stock": 54,
+      "designs": "c48",
+      "designCode": "15",
+      "category": "N/A",
+      "description": "mirza g products",
+      "dateAdded": "2025-07-24",
+      "priceType": "single",
+      "bundlePrice": null,
+      "piecesInBundle": null
     }
   ],
   "sales": [
@@ -590,5 +605,5 @@
   ],
   "totalReceiptsGenerated": 33,
   "totalRevenue": 128360,
-  "lastUpdated": "2025-07-24T13:43:14.450Z"
+  "lastUpdated": "2025-07-24T13:44:12.082Z"
 }
