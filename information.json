@@ -34,7 +34,7 @@
       "id": 5,
       "name": "Gypsum Ceilling",
       "company": "Mughal Ceilling",
-      "price": 80,
+      "price": 90,
       "stock": 33,
       "designs": "mehndi",
       "designCode": "03",
@@ -770,5 +770,5 @@
   ],
   "totalReceiptsGenerated": 33,
   "totalRevenue": 128360,
-  "lastUpdated": "2025-07-24T14:08:46.810Z"
+  "lastUpdated": "2025-07-24T14:08:58.646Z"
 }
