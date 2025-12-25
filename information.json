@@ -411,7 +411,7 @@
       "company": "Royal",
       "price": 222,
       "stock": 110,
-      "designs": "32 mm  14.600 kg",
+      "designs": "Main tee 32 mm 14.600 kg",
       "designCode": "cr46",
       "category": "N/A",
       "description": "N/A",
@@ -765,5 +765,5 @@
   ],
   "totalReceiptsGenerated": 33,
   "totalRevenue": 0,
-  "lastUpdated": "2025-07-24T15:28:35.956Z"
+  "lastUpdated": "2025-07-24T15:29:55.248Z"
 }
