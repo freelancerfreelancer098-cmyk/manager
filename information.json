@@ -124,7 +124,7 @@
       "id": 11,
       "name": "Gypsum Ceilling",
       "company": "Mughal Ceilling",
-      "price": 80,
+      "price": 90,
       "stock": 320,
       "designs": "cross bala",
       "designCode": "09",
@@ -770,5 +770,5 @@
   ],
   "totalReceiptsGenerated": 33,
   "totalRevenue": 128360,
-  "lastUpdated": "2025-07-24T14:06:59.557Z"
+  "lastUpdated": "2025-07-24T14:07:32.030Z"
 }
