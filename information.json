@@ -289,7 +289,7 @@
       "id": 22,
       "name": "gypsum tile",
       "company": "Mughal Ceilling",
-      "price": 80,
+      "price": 90,
       "stock": 300,
       "designs": "black arish",
       "designCode": "20",
@@ -770,5 +770,5 @@
   ],
   "totalReceiptsGenerated": 33,
   "totalRevenue": 128360,
-  "lastUpdated": "2025-07-24T14:06:07.539Z"
+  "lastUpdated": "2025-07-24T14:06:30.384Z"
 }
