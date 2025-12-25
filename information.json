@@ -715,7 +715,7 @@
       "accountNumber": "",
       "accountHolder": "",
       "orderStatus": "completed",
-      "paymentStatus": "pending",
+      "paymentStatus": "completed",
       "deliveryStatus": "delivered",
       "startDate": "2025-12-25",
       "endDate": "2025-12-25",
@@ -761,7 +761,7 @@
       "dateAdded": "2025-07-23"
     }
   ],
-  "initialBalance": 150,
+  "initialBalance": 200,
   "adjustments": [
     {
       "type": "sale",
@@ -1086,9 +1086,15 @@
       "amount": 50,
       "date": "2025-07-24T20:01:24.256Z",
       "description": "Payment received for sale #2 - Main tee"
+    },
+    {
+      "type": "payment_received",
+      "amount": 50,
+      "date": "2025-07-24T20:01:58.195Z",
+      "description": "Payment received for sale #3 - Main tee"
     }
   ],
   "totalReceiptsGenerated": 35,
   "totalRevenue": 1776,
-  "lastUpdated": "2025-07-24T20:01:24.256Z"
+  "lastUpdated": "2025-07-24T20:01:58.196Z"
 }
