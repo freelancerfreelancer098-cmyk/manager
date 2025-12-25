@@ -184,7 +184,7 @@
       "id": 15,
       "name": "Gypsum Ceilling",
       "company": "Mughal Ceilling",
-      "price": 80,
+      "price": 90,
       "stock": 296,
       "designs": "golden taj",
       "designCode": "13",
@@ -770,5 +770,5 @@
   ],
   "totalReceiptsGenerated": 33,
   "totalRevenue": 128360,
-  "lastUpdated": "2025-07-24T14:03:40.468Z"
+  "lastUpdated": "2025-07-24T14:04:10.853Z"
 }
