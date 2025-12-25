@@ -743,20 +743,7 @@
   ],
   "ceilings": [],
   "ceilingSales": [],
-  "newCustomers": [
-    {
-      "id": 1,
-      "name": "Ali",
-      "phone": "03086006321",
-      "address": "Lahore Pakistan",
-      "productInterested": "Wallpaper",
-      "designPreference": "White",
-      "paymentMethod": "N/A",
-      "notes": "Mirza gee interior",
-      "dateAdded": "2025-12-22",
-      "status": "new"
-    }
-  ],
+  "newCustomers": [],
   "expenses": [],
   "projects": [
     {
@@ -1084,5 +1071,5 @@
   ],
   "totalReceiptsGenerated": 34,
   "totalRevenue": 1776,
-  "lastUpdated": "2025-12-25T11:17:09.190Z"
+  "lastUpdated": "2025-07-24T17:22:16.445Z"
 }
