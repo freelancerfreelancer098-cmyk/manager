@@ -509,6 +509,21 @@
       "priceType": "single",
       "bundlePrice": null,
       "piecesInBundle": null
+    },
+    {
+      "id": 37,
+      "name": "Main tee",
+      "company": "Royal",
+      "price": 222,
+      "stock": 9,
+      "designs": "Main tee 14,600 kg",
+      "designCode": "wood 32mm",
+      "category": "N/A",
+      "description": "N/A",
+      "dateAdded": "2025-07-24",
+      "priceType": "single",
+      "bundlePrice": null,
+      "piecesInBundle": null
     }
   ],
   "sales": [],
@@ -840,5 +855,5 @@
   ],
   "totalReceiptsGenerated": 33,
   "totalRevenue": 0,
-  "lastUpdated": "2025-07-24T15:46:23.256Z"
+  "lastUpdated": "2025-07-24T15:50:36.666Z"
 }
