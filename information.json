@@ -443,7 +443,7 @@
       "dateAdded": "2025-07-23"
     }
   ],
-  "initialBalance": 6400,
+  "initialBalance": 0,
   "adjustments": [
     {
       "type": "sale",
@@ -707,9 +707,18 @@
       "amount": -5000,
       "date": "2025-07-24T14:12:16.333Z",
       "description": "Ceiling sale #1 deleted"
+    },
+    {
+      "type": "balance_adjustment",
+      "amount": -6400,
+      "date": "2025-07-24T15:07:33.893Z",
+      "reason": "initial",
+      "notes": "",
+      "previousBalance": 6400,
+      "newBalance": 0
     }
   ],
   "totalReceiptsGenerated": 33,
   "totalRevenue": 0,
-  "lastUpdated": "2025-07-24T14:12:16.333Z"
+  "lastUpdated": "2025-07-24T15:07:34.085Z"
 }
