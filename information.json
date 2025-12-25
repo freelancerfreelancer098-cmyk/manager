@@ -239,6 +239,21 @@
       "priceType": "single",
       "bundlePrice": null,
       "piecesInBundle": null
+    },
+    {
+      "id": 19,
+      "name": "gymsim celling",
+      "company": "Mughal Ceilling",
+      "price": 80,
+      "stock": 226,
+      "designs": "black white circle",
+      "designCode": "17",
+      "category": "N/A",
+      "description": "mirza g products",
+      "dateAdded": "2025-07-24",
+      "priceType": "single",
+      "bundlePrice": null,
+      "piecesInBundle": null
     }
   ],
   "sales": [
@@ -620,5 +635,5 @@
   ],
   "totalReceiptsGenerated": 33,
   "totalRevenue": 128360,
-  "lastUpdated": "2025-07-24T13:45:43.270Z"
+  "lastUpdated": "2025-07-24T13:47:38.914Z"
 }
