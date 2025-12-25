@@ -554,6 +554,21 @@
       "priceType": "single",
       "bundlePrice": null,
       "piecesInBundle": null
+    },
+    {
+      "id": 40,
+      "name": "Main tee",
+      "company": "CKM",
+      "price": 222,
+      "stock": 75,
+      "designs": "Main tee 17 kg",
+      "designCode": "CKM 17 kg",
+      "category": "N/A",
+      "description": "N/A",
+      "dateAdded": "2025-07-24",
+      "priceType": "single",
+      "bundlePrice": null,
+      "piecesInBundle": null
     }
   ],
   "sales": [],
@@ -885,5 +900,5 @@
   ],
   "totalReceiptsGenerated": 33,
   "totalRevenue": 0,
-  "lastUpdated": "2025-07-24T15:54:35.060Z"
+  "lastUpdated": "2025-07-24T16:05:44.733Z"
 }
