@@ -391,33 +391,7 @@
       "piecesInBundle": null
     }
   ],
-  "sales": [
-    {
-      "id": 1,
-      "productId": 1,
-      "productName": "Wall Paper",
-      "productPrice": 10000,
-      "quantity": 11,
-      "designName": "1",
-      "designCode": "1",
-      "customerName": "1",
-      "customerPhone": "1",
-      "customerAddress": "1",
-      "advancePaid": 5000,
-      "totalPrice": 110000,
-      "paymentMethod": "cash",
-      "bankName": "",
-      "accountNumber": "",
-      "accountHolder": "",
-      "orderStatus": "completed",
-      "paymentStatus": "completed",
-      "deliveryStatus": "delivered",
-      "startDate": "2025-12-24",
-      "endDate": "",
-      "notes": "1",
-      "saleDate": "2025-12-24"
-    }
-  ],
+  "sales": [],
   "customers": [],
   "workers": [
     {
@@ -495,7 +469,7 @@
       "dateAdded": "2025-07-23"
     }
   ],
-  "initialBalance": 16400,
+  "initialBalance": 11400,
   "adjustments": [
     {
       "type": "sale",
@@ -747,9 +721,15 @@
       "amount": -1400,
       "date": "2025-07-24T14:10:58.671Z",
       "description": "Sale #2 deleted - Wall panel 10 inch to Saad"
+    },
+    {
+      "type": "sale_deletion",
+      "amount": -5000,
+      "date": "2025-07-24T14:11:07.794Z",
+      "description": "Sale #1 deleted - Wall Paper to 1"
     }
   ],
   "totalReceiptsGenerated": 33,
-  "totalRevenue": 124560,
-  "lastUpdated": "2025-07-24T14:10:58.671Z"
+  "totalRevenue": 14560,
+  "lastUpdated": "2025-07-24T14:11:07.794Z"
 }
