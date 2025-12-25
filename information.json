@@ -269,6 +269,21 @@
       "priceType": "single",
       "bundlePrice": null,
       "piecesInBundle": null
+    },
+    {
+      "id": 21,
+      "name": "gypsum tile",
+      "company": "Mughal Ceilling",
+      "price": 80,
+      "stock": 130,
+      "designs": "white golden bail",
+      "designCode": "19",
+      "category": "N/A",
+      "description": "mirza g products",
+      "dateAdded": "2025-07-24",
+      "priceType": "single",
+      "bundlePrice": null,
+      "piecesInBundle": null
     }
   ],
   "sales": [
@@ -650,5 +665,5 @@
   ],
   "totalReceiptsGenerated": 33,
   "totalRevenue": 128360,
-  "lastUpdated": "2025-07-24T13:49:41.003Z"
+  "lastUpdated": "2025-07-24T13:52:30.810Z"
 }
