@@ -614,6 +614,21 @@
       "priceType": "single",
       "bundlePrice": null,
       "piecesInBundle": null
+    },
+    {
+      "id": 44,
+      "name": "Angel",
+      "company": "CKM",
+      "price": 70,
+      "stock": 120,
+      "designs": "Angel 6 kg",
+      "designCode": "Angel",
+      "category": "N/A",
+      "description": "N/A",
+      "dateAdded": "2025-07-24",
+      "priceType": "single",
+      "bundlePrice": null,
+      "piecesInBundle": null
     }
   ],
   "sales": [],
@@ -945,5 +960,5 @@
   ],
   "totalReceiptsGenerated": 33,
   "totalRevenue": 0,
-  "lastUpdated": "2025-07-24T16:10:07.029Z"
+  "lastUpdated": "2025-07-24T16:11:19.724Z"
 }
