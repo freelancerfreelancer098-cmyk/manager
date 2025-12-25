@@ -314,6 +314,21 @@
       "priceType": "single",
       "bundlePrice": null,
       "piecesInBundle": null
+    },
+    {
+      "id": 24,
+      "name": "gypsum tile",
+      "company": "Mughal Ceilling",
+      "price": 80,
+      "stock": 297,
+      "designs": "12 goli black",
+      "designCode": "21",
+      "category": "N/A",
+      "description": "mirza g products",
+      "dateAdded": "2025-07-24",
+      "priceType": "single",
+      "bundlePrice": null,
+      "piecesInBundle": null
     }
   ],
   "sales": [
@@ -695,5 +710,5 @@
   ],
   "totalReceiptsGenerated": 33,
   "totalRevenue": 128360,
-  "lastUpdated": "2025-07-24T13:54:51.452Z"
+  "lastUpdated": "2025-07-24T13:56:48.048Z"
 }
