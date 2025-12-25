@@ -449,6 +449,21 @@
       "priceType": "single",
       "bundlePrice": null,
       "piecesInBundle": null
+    },
+    {
+      "id": 33,
+      "name": "Main tee",
+      "company": "Royal",
+      "price": 37,
+      "stock": 100,
+      "designs": "cross 15 kg",
+      "designCode": "z9",
+      "category": "N/A",
+      "description": "N/A",
+      "dateAdded": "2025-07-24",
+      "priceType": "single",
+      "bundlePrice": null,
+      "piecesInBundle": null
     }
   ],
   "sales": [],
@@ -780,5 +795,5 @@
   ],
   "totalReceiptsGenerated": 33,
   "totalRevenue": 0,
-  "lastUpdated": "2025-07-24T15:35:01.273Z"
+  "lastUpdated": "2025-07-24T15:36:08.592Z"
 }
