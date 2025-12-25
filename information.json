@@ -259,7 +259,7 @@
       "id": 20,
       "name": "gypsum tile",
       "company": "Mughal Ceilling",
-      "price": 80,
+      "price": 90,
       "stock": 313,
       "designs": "golden barder",
       "designCode": "18",
@@ -770,5 +770,5 @@
   ],
   "totalReceiptsGenerated": 33,
   "totalRevenue": 128360,
-  "lastUpdated": "2025-07-24T14:05:42.038Z"
+  "lastUpdated": "2025-07-24T14:05:53.839Z"
 }
