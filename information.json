@@ -224,6 +224,21 @@
       "priceType": "single",
       "bundlePrice": null,
       "piecesInBundle": null
+    },
+    {
+      "id": 18,
+      "name": "Gypsum Ceilling",
+      "company": "Mughal Ceilling",
+      "price": 80,
+      "stock": 206,
+      "designs": "red sofa",
+      "designCode": "16",
+      "category": "N/A",
+      "description": "mirza g products",
+      "dateAdded": "2025-07-24",
+      "priceType": "single",
+      "bundlePrice": null,
+      "piecesInBundle": null
     }
   ],
   "sales": [
@@ -605,5 +620,5 @@
   ],
   "totalReceiptsGenerated": 33,
   "totalRevenue": 128360,
-  "lastUpdated": "2025-07-24T13:44:12.082Z"
+  "lastUpdated": "2025-07-24T13:45:43.270Z"
 }
