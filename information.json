@@ -605,7 +605,7 @@
       "name": "Main tee",
       "company": "CKM",
       "price": 38,
-      "stock": 225,
+      "stock": 450,
       "designs": "Cross 18 kg",
       "designCode": "CKM 18 kg",
       "category": "N/A",
@@ -975,5 +975,5 @@
   ],
   "totalReceiptsGenerated": 33,
   "totalRevenue": 0,
-  "lastUpdated": "2025-07-24T16:14:40.100Z"
+  "lastUpdated": "2025-07-24T16:15:29.323Z"
 }
