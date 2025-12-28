@@ -470,7 +470,7 @@
       "name": "Main tee",
       "company": "Royal",
       "price": 204,
-      "stock": 4,
+      "stock": 5,
       "designs": "Main tee 15 kg",
       "designCode": "Z9 32 mm",
       "category": "N/A",
@@ -671,31 +671,6 @@
       "endDate": "",
       "notes": "",
       "saleDate": "2025-12-25"
-    },
-    {
-      "id": 3,
-      "productId": 34,
-      "productName": "Main tee",
-      "productPrice": 204,
-      "quantity": 1,
-      "designName": "MAIN TEE",
-      "designCode": "Z9",
-      "customerName": "Tariq",
-      "customerPhone": "000000000",
-      "customerAddress": "Xyzzz",
-      "advancePaid": 50,
-      "totalPrice": 204,
-      "paymentMethod": "cash",
-      "bankName": "",
-      "accountNumber": "",
-      "accountHolder": "",
-      "orderStatus": "completed",
-      "paymentStatus": "completed",
-      "deliveryStatus": "delivered",
-      "startDate": "2025-12-25",
-      "endDate": "2025-12-25",
-      "notes": "",
-      "saleDate": "2025-12-25"
     }
   ],
   "customers": [],
@@ -736,7 +711,7 @@
       "dateAdded": "2025-07-24"
     }
   ],
-  "initialBalance": 200,
+  "initialBalance": 150,
   "adjustments": [
     {
       "type": "sale",
@@ -1080,9 +1055,15 @@
       "amount": 0,
       "date": "2025-12-28T03:48:45.832Z",
       "description": "Sale #1 deleted - Gypsum Ceilling to Tariq"
+    },
+    {
+      "type": "sale_deletion",
+      "amount": -50,
+      "date": "2025-12-28T03:48:51.848Z",
+      "description": "Sale #3 deleted - Main tee to Tariq"
     }
   ],
   "totalReceiptsGenerated": 37,
-  "totalRevenue": 426,
-  "lastUpdated": "2025-12-28T03:48:45.832Z"
+  "totalRevenue": 222,
+  "lastUpdated": "2025-12-28T03:48:51.848Z"
 }
