@@ -455,7 +455,7 @@
       "name": "Main tee",
       "company": "Royal",
       "price": 37,
-      "stock": 94,
+      "stock": 100,
       "designs": "cross 15 kg",
       "designCode": "z9 32 mm",
       "category": "N/A",
@@ -646,33 +646,7 @@
       "piecesInBundle": null
     }
   ],
-  "sales": [
-    {
-      "id": 2,
-      "productId": 33,
-      "productName": "Main tee",
-      "productPrice": 37,
-      "quantity": 6,
-      "designName": "Cross",
-      "designCode": "Z9",
-      "customerName": "Tariq",
-      "customerPhone": "00000",
-      "customerAddress": "N/A",
-      "advancePaid": 50,
-      "totalPrice": 222,
-      "paymentMethod": "cash",
-      "bankName": "",
-      "accountNumber": "",
-      "accountHolder": "",
-      "orderStatus": "completed",
-      "paymentStatus": "completed",
-      "deliveryStatus": "delivered",
-      "startDate": "2025-12-25",
-      "endDate": "",
-      "notes": "",
-      "saleDate": "2025-12-25"
-    }
-  ],
+  "sales": [],
   "customers": [],
   "workers": [
     {
@@ -711,7 +685,7 @@
       "dateAdded": "2025-07-24"
     }
   ],
-  "initialBalance": 150,
+  "initialBalance": 100,
   "adjustments": [
     {
       "type": "sale",
@@ -1061,9 +1035,15 @@
       "amount": -50,
       "date": "2025-12-28T03:48:51.848Z",
       "description": "Sale #3 deleted - Main tee to Tariq"
+    },
+    {
+      "type": "sale_deletion",
+      "amount": -50,
+      "date": "2025-12-28T03:48:56.707Z",
+      "description": "Sale #2 deleted - Main tee to Tariq"
     }
   ],
   "totalReceiptsGenerated": 37,
-  "totalRevenue": 222,
-  "lastUpdated": "2025-12-28T03:48:51.848Z"
+  "totalRevenue": 0,
+  "lastUpdated": "2025-12-28T03:48:56.707Z"
 }
