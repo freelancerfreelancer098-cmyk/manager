@@ -200,7 +200,7 @@
       "name": "Gypsum Ceilling",
       "company": "Mughal Ceilling",
       "price": 90,
-      "stock": 133,
+      "stock": 148,
       "designs": "black bail",
       "designCode": "14",
       "category": "N/A",
@@ -648,31 +648,6 @@
   ],
   "sales": [
     {
-      "id": 1,
-      "productId": 16,
-      "productName": "Gypsum Ceilling",
-      "productPrice": 90,
-      "quantity": 15,
-      "designName": "Black bail",
-      "designCode": "14",
-      "customerName": "Tariq",
-      "customerPhone": "000000000",
-      "customerAddress": "Zxzzzz",
-      "advancePaid": 0,
-      "totalPrice": 1350,
-      "paymentMethod": "cash",
-      "bankName": "",
-      "accountNumber": "",
-      "accountHolder": "",
-      "orderStatus": "completed",
-      "paymentStatus": "completed",
-      "deliveryStatus": "delivered",
-      "startDate": "2025-12-25",
-      "endDate": "",
-      "notes": "",
-      "saleDate": "2025-12-25"
-    },
-    {
       "id": 2,
       "productId": 33,
       "productName": "Main tee",
@@ -1099,9 +1074,15 @@
       "date": "2025-07-24T20:02:44.953Z",
       "description": "Receipt generated for sale #1",
       "receiptNo": "MG-SALE-1-7253"
+    },
+    {
+      "type": "sale_deletion",
+      "amount": 0,
+      "date": "2025-12-28T03:48:45.832Z",
+      "description": "Sale #1 deleted - Gypsum Ceilling to Tariq"
     }
   ],
   "totalReceiptsGenerated": 37,
-  "totalRevenue": 1776,
-  "lastUpdated": "2025-07-24T20:26:08.143Z"
+  "totalRevenue": 426,
+  "lastUpdated": "2025-12-28T03:48:45.832Z"
 }
