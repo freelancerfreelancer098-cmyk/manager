@@ -667,7 +667,24 @@
   ],
   "ceilings": [],
   "ceilingSales": [],
-  "newCustomers": [],
+  "newCustomers": [
+    {
+      "id": 1,
+      "name": "Test",
+      "phone": "930438208320",
+      "address": "Lahore",
+      "productInterested": "SEO",
+      "designPreference": "N/A",
+      "paymentMethod": "online",
+      "notes": "",
+      "dateAdded": "2026-01-15",
+      "status": "new",
+      "followUpDate": "",
+      "assignedTo": "",
+      "convertedToSale": false,
+      "saleId": null
+    }
+  ],
   "expenses": [],
   "projects": [
     {
@@ -1045,5 +1062,5 @@
   ],
   "totalReceiptsGenerated": 37,
   "totalRevenue": 0,
-  "lastUpdated": "2026-01-15T14:48:36.872Z"
+  "lastUpdated": "2026-01-15T14:49:25.660Z"
 }
