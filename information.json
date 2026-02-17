@@ -702,7 +702,7 @@
       "dateAdded": "2025-07-24"
     }
   ],
-  "initialBalance": 100,
+  "initialBalance": 0,
   "adjustments": [
     {
       "type": "sale",
@@ -1058,9 +1058,18 @@
       "amount": -50,
       "date": "2025-12-28T03:48:56.707Z",
       "description": "Sale #2 deleted - Main tee to Tariq"
+    },
+    {
+      "type": "balance_adjustment",
+      "amount": -100,
+      "date": "2026-02-17T08:07:09.723Z",
+      "reason": "initial",
+      "notes": "",
+      "previousBalance": 100,
+      "newBalance": 0
     }
   ],
   "totalReceiptsGenerated": 37,
   "totalRevenue": 0,
-  "lastUpdated": "2026-01-26T01:23:16.994Z"
+  "lastUpdated": "2026-02-17T08:07:09.729Z"
 }
